@@ -1,0 +1,13 @@
+Got it! It looks like you're working on Experiment 8, which involves using seaborn and matplotlib to explore and visualize the Titanic dataset. This experiment includes several types of plots, such as:
+
+Distribution plots (sns.distplot()): To visualize the distribution of data (e.g., fare).
+
+Joint plots (sns.jointplot()): To explore the relationship between two variables (e.g., age and fare).
+
+Bar and count plots (sns.barplot(), sns.countplot()): To explore categorical data (e.g., sex).
+
+Box and violin plots (sns.boxplot(), sns.violinplot()): To visualize the distribution of continuous data across categories (e.g., age by sex).
+
+Strip and swarm plots (sns.stripplot(), sns.swarmplot()): To show individual data points overlaid on categorical data.
+
+Histograms: For understanding the frequency distribution of the fare data.

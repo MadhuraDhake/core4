@@ -1,0 +1,2241 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,Year_Birth,math score,reading score,writing score,Dt_Admission,College_Fees
+female,group B,bachelor's degree,standard,none,1970,72,72,74,6/16/14,"$84,835.00 "
+female,group C,some college,standard,completed,1961,,na,A,6/15/14,"$57,091.00 "
+female,group B,master's degree,standard,none,1958,90,95,93,5/13/14,"$67,267.00 "
+male,group A,associate's degree,free/reduced,none,1967,,n/a,44,05-11-2014,"$32,474.00 "
+male,group C,some college,standard,none,1989,76,78,75,04-08-2014,"$21,474.00 "
+female,group B,associate's degree,standard,none,1958,71,83,78,3/17/14,"$71,691.00 "
+female,group B,some college,standard,completed,1954,88,95,92,1/29/14,"$63,564.00 "
+male,group B,some college,free/reduced,none,1967,40,43,39,1/18/14,"$44,931.00 "
+male,group D,high school,free/reduced,completed,1954,64,64,67,01-11-2014,"$65,324.00 "
+female,group B,high school,free/reduced,none,1954,38,60,50,01-11-2014,"$65,324.00 "
+male,group C,associate's degree,standard,none,1947,58,54,52,12/27/13,"$81,044.00 "
+male,group D,associate's degree,standard,none,1979,40,52,43,12-09-2013,"$62,499.00 "
+female,group B,high school,standard,none,1959,65,81,73,12-07-2013,"$67,786.00 "
+male,group A,some college,standard,completed,1981,78,72,70,10/16/13,"$26,872.00 "
+female,group A,master's degree,standard,none,1969,50,53,58,10-05-2013,"$4,428.00 "
+female,group C,some high school,standard,none,1977,69,75,78,09-11-2013,"$54,809.00 "
+male,group C,high school,standard,none,1977,88,89,86,09-11-2013,"$54,809.00 "
+female,group B,some high school,free/reduced,none,1958,18,32,28,08-01-2013,"$32,173.00 "
+male,group C,master's degree,free/reduced,completed,1960,46,42,46,7/23/13,"$47,823.00 "
+female,group C,associate's degree,free/reduced,none,1958,54,58,61,07-01-2013,"$30,523.00 "
+male,group D,high school,standard,none,1954,66,69,63,5/28/13,"$36,634.00 "
+female,group B,some college,free/reduced,completed,1966,65,75,70,3/26/13,"$43,456.00 "
+male,group D,some college,standard,none,1979,44,54,53,3/15/13,"$40,662.00 "
+female,group C,some high school,standard,none,1976,69,73,73,02-12-2013,"$49,544.00 "
+male,group D,bachelor's degree,free/reduced,completed,1969,74,71,80,11/23/12,"$57,731.00 "
+male,group A,master's degree,free/reduced,none,1965,73,74,72,10/13/12,"$33,168.00 "
+male,group B,some college,standard,none,1956,69,54,55,9/14/12,"$54,450.00 "
+female,group C,bachelor's degree,standard,none,1956,67,69,75,9/14/12,"$54,450.00 "
+male,group C,high school,standard,none,1956,70,70,65,6/29/14,"$35,340.00 "
+female,group D,master's degree,standard,none,1975,62,70,75,5/31/14,"$73,170.00 "
+female,group D,some college,standard,none,1971,69,74,74,5/30/14,"$65,808.00 "
+female,group B,some college,standard,none,1986,63,65,61,4/27/14,"$79,529.00 "
+female,group E,master's degree,free/reduced,none,1972,56,72,65,04-11-2014,"$34,578.00 "
+male,group D,some college,standard,none,1974,40,42,38,3/17/14,"$46,374.00 "
+male,group E,some college,standard,none,1990,97,87,82,10/29/13,"$18,351.00 "
+male,group E,associate's degree,standard,completed,1987,81,81,79,10-09-2013,"$95,169.00 "
+female,group D,associate's degree,standard,none,1984,74,81,83,08-01-2013,"$65,370.00 "
+female,group D,some high school,free/reduced,none,1960,50,64,59,05-10-2013,"$39,228.00 "
+female,group D,associate's degree,free/reduced,completed,1961,75,90,88,05-09-2013,"$84,865.00 "
+male,group B,associate's degree,free/reduced,none,1968,57,56,57,4/25/13,"$61,314.00 "
+male,group C,associate's degree,free/reduced,none,1972,55,61,54,4/20/13,"$21,359.00 "
+female,group C,associate's degree,standard,none,1955,58,73,68,3/30/13,"$66,465.00 "
+female,group B,associate's degree,standard,none,1983,53,58,65,03-01-2013,"$81,698.00 "
+male,group B,some college,free/reduced,completed,1986,59,65,66,2/14/13,"$39,146.00 "
+female,group E,associate's degree,free/reduced,none,1970,50,56,54,2/14/13,"$25,959.00 "
+male,group B,associate's degree,standard,none,1961,65,54,57,01-11-2013,"$64,260.00 "
+female,group A,associate's degree,standard,completed,1973,55,65,62,01-03-2013,"$32,300.00 "
+female,group C,high school,standard,none,1965,66,71,76,12/19/12,"$74,806.00 "
+female,group D,associate's degree,free/reduced,completed,1970,57,74,76,12/15/12,"$72,967.00 "
+male,group C,high school,standard,completed,1960,82,84,82,12-02-2012,"$48,904.00 "
+male,group E,some college,standard,none,1984,53,55,48,9/17/12,"$14,796.00 "
+male,group E,associate's degree,free/reduced,completed,1954,77,69,68,09-11-2012,"$66,991.00 "
+male,group C,some college,standard,none,1978,53,44,42,05-12-2014,"$52,195.00 "
+male,group D,high school,standard,none,1956,88,78,75,4/28/14,"$90,369.00 "
+female,group C,some high school,free/reduced,completed,1974,71,84,87,3/29/14,"$18,393.00 "
+female,group C,high school,free/reduced,none,1952,33,41,43,03-06-2014,"$47,139.00 "
+female,group E,associate's degree,standard,completed,1973,82,85,86,03-04-2014,"$38,576.00 "
+male,group D,associate's degree,standard,none,1975,52,55,49,02-04-2014,"$61,905.00 "
+male,group D,some college,standard,completed,1962,58,59,58,02-03-2014,"$83,715.00 "
+female,group C,some high school,free/reduced,none,1964,0,17,10,01-01-2014,"$60,597.00 "
+male,group E,bachelor's degree,free/reduced,completed,1982,79,74,72,12-12-2013,"$6,560.00 "
+male,group A,some high school,free/reduced,none,1961,39,39,34,11/15/13,"$48,330.00 "
+male,group A,associate's degree,free/reduced,none,1968,62,61,55,9/20/13,"$38,236.00 "
+female,group C,associate's degree,standard,none,1977,69,80,71,09-05-2013,"$22,701.00 "
+female,group D,some high school,standard,none,1974,59,58,59,8/31/13,"$53,367.00 "
+male,group B,some high school,standard,none,1986,67,64,61,7/30/13,"$34,728.00 "
+male,group D,some high school,free/reduced,none,1956,45,37,37,7/30/13,"$63,915.00 "
+female,group C,some college,standard,none,1960,60,72,74,7/27/13,"$82,504.00 "
+male,group B,associate's degree,free/reduced,none,1972,61,58,56,6/22/13,"$38,578.00 "
+female,group C,associate's degree,standard,none,1972,39,64,57,6/22/13,"$38,578.00 "
+female,group D,some college,free/reduced,completed,1975,58,63,73,01-11-2013,"$79,174.00 "
+male,group D,some college,standard,completed,1962,63,55,63,01-05-2013,"$81,975.00 "
+female,group A,associate's degree,free/reduced,none,1977,41,51,48,11/21/12,"$43,263.00 "
+male,group C,some high school,free/reduced,none,1970,61,57,56,11-11-2012,"$27,242.00 "
+male,group C,some high school,standard,none,1971,49,49,41,9/28/12,"$76,445.00 "
+male,group B,associate's degree,free/reduced,none,1965,44,41,38,9/27/12,"$75,276.00 "
+male,group E,some high school,standard,none,1963,30,26,22,09-07-2012,"$34,213.00 "
+male,group A,bachelor's degree,standard,completed,1976,80,78,81,8/13/12,"$72,335.00 "
+female,group D,some high school,standard,completed,1964,61,74,72,08-11-2012,"$79,143.00 "
+female,group E,master's degree,standard,none,1947,62,68,68,08-02-2012,"$27,469.00 "
+female,group B,associate's degree,standard,none,1969,47,49,50,6/25/14,"$68,695.00 "
+male,group B,high school,free/reduced,none,1969,49,45,45,6/25/14,"$68,695.00 "
+male,group A,some college,free/reduced,completed,1957,50,47,54,5/28/14,"$50,388.00 "
+male,group E,associate's degree,standard,none,1970,72,64,63,4/14/14,"$77,622.00 "
+male,group D,high school,free/reduced,none,1962,42,39,34,03-10-2014,"$46,102.00 "
+female,group C,some college,standard,none,1980,73,80,82,2/27/14,"$31,859.00 "
+female,group C,some college,free/reduced,none,1987,76,83,88,02-07-2014,"$23,830.00 "
+female,group D,associate's degree,standard,none,1973,71,71,74,1/28/14,"$24,639.00 "
+female,group A,some college,standard,none,1945,58,70,67,11/17/13,"$71,604.00 "
+female,group D,some high school,standard,none,1984,73,86,82,11-07-2013,"$27,255.00 "
+female,group C,bachelor's degree,standard,none,1977,65,72,74,10/17/13,"$55,375.00 "
+male,group C,high school,free/reduced,none,1960,27,34,36,10/13/13,"$77,037.00 "
+male,group C,high school,standard,none,1970,71,79,71,10-12-2013,"$24,163.00 "
+male,group C,associate's degree,free/reduced,completed,1969,43,45,50,9/30/13,"$69,476.00 "
+female,group B,some college,standard,none,1979,79,86,92,07-03-2013,"$72,063.00 "
+male,group C,associate's degree,free/reduced,completed,1962,78,81,82,06-10-2013,"$58,646.00 "
+male,group B,some high school,standard,completed,1962,65,66,62,06-10-2013,"$58,646.00 "
+female,group E,some college,standard,completed,1949,63,72,70,5/29/13,"$47,570.00 "
+female,group D,some college,free/reduced,none,1980,58,67,62,4/29/13,"$80,011.00 "
+female,group D,bachelor's degree,standard,none,1956,65,67,62,03-10-2013,"$54,998.00 "
+male,group B,some college,standard,none,1948,79,67,67,01-02-2013,"$60,200.00 "
+male,group D,bachelor's degree,standard,completed,1982,68,74,74,11-02-2012,"$63,211.00 "
+female,group D,associate's degree,standard,none,1973,85,91,89,10/18/12,"$48,432.00 "
+male,group B,high school,standard,completed,1973,60,44,47,10/18/12,"$48,432.00 "
+male,group C,some college,standard,completed,1973,98,86,90,10/18/12,"$48,432.00 "
+female,group C,some college,standard,none,1949,58,67,72,10-01-2012,"$62,845.00 "
+female,group D,master's degree,standard,none,1949,87,100,100,10-01-2012,"$62,845.00 "
+male,group E,associate's degree,standard,completed,1965,66,63,64,09-03-2012,"$65,220.00 "
+female,group B,associate's degree,free/reduced,none,1990,52,76,70,8/26/12,"$74,214.00 "
+female,group B,some high school,standard,none,1980,70,64,72,5/23/14,"$96,547.00 "
+female,group D,associate's degree,free/reduced,completed,1955,77,89,98,5/17/14,"$53,863.00 "
+male,group C,high school,standard,none,1970,62,55,49,4/21/14,"$50,447.00 "
+male,group A,associate's degree,standard,none,1953,54,53,47,4/21/14,"$37,716.00 "
+female,group D,some college,standard,none,1982,51,58,54,3/23/14,"$45,203.00 "
+female,group E,bachelor's degree,standard,completed,1975,99,100,100,12/16/13,"$37,368.00 "
+male,group C,high school,standard,none,1955,84,77,74,11/26/13,"$67,225.00 "
+female,group B,bachelor's degree,free/reduced,none,1976,75,85,82,11/14/13,"$65,104.00 "
+female,group D,bachelor's degree,standard,none,1976,78,82,79,11/14/13,"$65,104.00 "
+female,group D,some high school,standard,none,1949,51,63,61,11-06-2013,"$81,698.00 "
+female,group C,some college,standard,none,1968,55,69,65,10-06-2013,"$70,566.00 "
+female,group C,bachelor's degree,standard,completed,1958,79,92,89,9/27/13,"$69,096.00 "
+male,group B,associate's degree,standard,completed,1962,91,89,92,9/18/13,"$71,434.00 "
+female,group C,some college,standard,completed,1978,88,93,93,09-09-2013,"$33,039.00 "
+male,group D,high school,free/reduced,none,1978,63,57,56,09-09-2013,"$33,039.00 "
+male,group E,some college,standard,none,1958,83,80,73,7/18/13,"$46,610.00 "
+female,group B,high school,standard,none,1958,87,95,86,07-08-2013,"$49,967.00 "
+male,group B,some high school,standard,none,1976,72,68,67,5/27/13,"$53,359.00 "
+male,group D,some college,standard,completed,1971,65,77,74,03-05-2013,"$49,505.00 "
+male,group D,master's degree,standard,none,1946,82,82,74,2/20/13,"$68,657.00 "
+female,group A,bachelor's degree,standard,none,1954,51,49,51,2/14/13,"$72,071.00 "
+male,group D,master's degree,standard,none,1954,89,84,82,2/14/13,"$72,071.00 "
+male,group C,some high school,free/reduced,completed,1967,53,37,40,01-12-2013,"$59,235.00 "
+male,group E,some college,free/reduced,completed,1957,87,74,70,12/24/12,"$21,994.00 "
+female,group C,some college,standard,completed,1957,75,81,84,12/24/12,"$21,994.00 "
+male,group D,bachelor's degree,free/reduced,completed,1957,74,79,75,11/19/12,"$21,994.01"
+male,group C,bachelor's degree,standard,none,1972,58,55,48,9/17/12,"$69,209.00 "
+male,group B,some high school,standard,completed,1989,51,54,41,3/28/14,"$31,928.00 "
+male,group E,high school,standard,none,1987,70,55,56,2/24/14,"$74,004.00 "
+female,group C,associate's degree,standard,none,1987,59,66,67,09-02-2013,"$30,390.00 "
+male,group D,some college,standard,completed,1985,71,61,69,8/20/13,"$21,355.00 "
+female,group D,some high school,standard,none,1969,76,72,71,6/23/13,"$26,304.00 "
+female,group C,some college,free/reduced,none,1989,59,62,64,05-05-2013,"$85,710.00 "
+female,group E,some college,free/reduced,completed,1974,42,55,54,04-05-2013,"$102,692.00 "
+male,group A,high school,standard,none,1971,57,43,47,01-04-2013,"$58,350.00 "
+male,group D,some college,standard,none,1978,88,73,78,12/27/12,"$7,500.00 "
+female,group C,some college,free/reduced,none,1984,22,39,33,11-10-2012,"$18,890.00 "
+male,group B,some high school,standard,none,1986,88,84,75,10/29/12,"$20,425.00 "
+male,group C,associate's degree,free/reduced,none,1986,73,68,66,10/29/12,"$20,425.00 "
+female,group D,bachelor's degree,standard,completed,1957,68,75,81,9/22/12,"$41,437.00 "
+male,group E,associate's degree,free/reduced,completed,1949,100,100,93,09-07-2012,"$49,912.00 "
+male,group A,some high school,standard,completed,1949,62,67,69,09-07-2012,"$49,912.00 "
+male,group A,bachelor's degree,standard,none,1959,77,67,68,3/31/14,"$79,823.00 "
+female,group B,associate's degree,standard,completed,1954,59,70,66,3/21/14,"$85,683.00 "
+male,group D,bachelor's degree,standard,none,1965,54,49,47,02-09-2014,"$47,025.00 "
+male,group D,some high school,standard,none,1976,62,67,61,11/17/13,"$68,397.00 "
+female,group C,some college,standard,completed,1984,70,89,88,9/23/13,"$38,175.00 "
+female,group E,high school,free/reduced,completed,1972,66,74,78,9/18/13,"$46,423.00 "
+male,group B,some college,free/reduced,none,1972,60,60,60,9/18/13,"$46,423.00 "
+female,group B,associate's degree,standard,completed,1976,61,86,87,6/27/13,"$30,560.00 "
+male,group D,associate's degree,free/reduced,none,1976,66,62,64,6/27/13,"$30,560.00 "
+male,group B,associate's degree,free/reduced,completed,1979,82,78,74,3/28/13,"$60,152.00 "
+female,group E,some college,free/reduced,completed,1965,75,88,85,03-12-2013,"$29,672.00 "
+male,group B,master's degree,free/reduced,none,1965,49,53,52,03-12-2013,"$29,672.00 "
+male,group C,high school,standard,none,1947,52,53,49,1/16/13,"$70,321.00 "
+female,group E,master's degree,standard,none,1962,81,92,91,01-08-2013,"$56,181.00 "
+female,group C,bachelor's degree,standard,completed,1990,96,100,100,12/29/12,"$24,279.00 "
+male,group C,high school,free/reduced,completed,1969,53,51,51,12-12-2012,"$68,462.00 "
+female,group B,master's degree,free/reduced,completed,1976,58,76,78,11/25/12,"$55,424.00 "
+female,group B,high school,standard,completed,1973,68,83,78,9/21/12,"$49,094.00 "
+female,group C,some college,free/reduced,completed,1961,67,75,70,09-09-2012,"$59,184.00 "
+male,group A,high school,standard,completed,1987,72,73,74,09-05-2012,"$67,430.00 "
+male,group E,some high school,standard,none,1960,94,88,78,8/17/12,"$30,522.00 "
+female,group D,some college,standard,none,1977,79,86,81,6/22/14,"$31,878.00 "
+female,group C,associate's degree,standard,none,1992,63,67,70,05-01-2014,"$83,528.00 "
+female,group C,bachelor's degree,free/reduced,completed,1979,43,51,54,01-03-2014,"$90,300.00 "
+female,group C,master's degree,standard,completed,1978,81,91,87,12/16/13,"$68,092.00 "
+female,group B,high school,free/reduced,completed,1972,46,54,58,10-11-2013,"$53,761.00 "
+female,group C,associate's degree,standard,completed,1973,71,77,77,8/13/13,"$52,845.00 "
+female,group B,master's degree,free/reduced,completed,1976,52,70,62,06-09-2013,"$24,027.00 "
+female,group D,some high school,standard,completed,1979,97,100,100,05-07-2013,"$7,500.00 "
+male,group C,master's degree,free/reduced,completed,1955,62,68,75,10/29/12,"$42,586.00 "
+female,group C,some college,free/reduced,none,1955,46,64,66,10/29/12,"$42,586.00 "
+female,group E,high school,standard,none,1973,50,50,47,10-02-2012,"$9,722.00 "
+female,group D,associate's degree,standard,none,1975,65,69,70,09-12-2012,"$86,836.00 "
+male,group C,some high school,free/reduced,completed,1972,45,52,49,3/19/14,"$30,467.00 "
+male,group C,associate's degree,free/reduced,completed,1952,65,67,65,03-03-2014,"$54,549.00 "
+male,group E,high school,standard,none,1982,80,76,65,2/22/14,"$19,444.00 "
+male,group D,some high school,standard,completed,1956,62,66,68,1/24/14,"$69,245.00 "
+male,group B,some high school,free/reduced,none,1963,48,52,45,12/16/13,"$72,968.00 "
+female,group C,bachelor's degree,standard,none,1953,77,88,87,12-04-2013,"$48,686.00 "
+female,group E,associate's degree,standard,none,1990,66,65,69,11/28/13,"$73,687.00 "
+male,group D,some college,standard,completed,1944,76,83,79,11-05-2013,"$82,716.00 "
+female,group B,some high school,standard,none,1981,62,64,66,10-03-2013,"$35,523.00 "
+male,group D,some college,standard,completed,1975,77,62,62,08-09-2013,"$60,554.00 "
+female,group C,master's degree,standard,completed,1956,69,84,85,08-07-2013,"$64,090.00 "
+male,group D,associate's degree,standard,none,1965,61,55,52,7/17/13,"$61,559.00 "
+male,group C,some high school,free/reduced,completed,1962,59,69,65,07-09-2013,"$71,670.00 "
+male,group E,high school,free/reduced,none,1951,55,56,51,06-11-2013,"$67,680.00 "
+female,group B,some college,free/reduced,none,1981,45,53,55,5/17/13,"$54,386.00 "
+female,group B,bachelor's degree,free/reduced,none,1953,78,79,76,3/23/13,"$64,108.00 "
+female,group C,associate's degree,standard,completed,1951,67,84,86,2/19/13,"$69,702.00 "
+female,group D,some college,free/reduced,none,1952,65,81,77,1/19/13,"$47,958.00 "
+male,group C,associate's degree,standard,none,1960,69,77,69,01-10-2013,"$67,716.00 "
+female,group B,associate's degree,standard,none,1971,57,69,68,01-01-2013,"$34,600.00 "
+male,group C,some college,standard,none,1971,59,41,42,01-01-2013,"$34,600.00 "
+male,group D,some high school,standard,completed,1969,74,71,78,12-12-2012,"$48,752.00 "
+male,group E,bachelor's degree,standard,none,1988,82,62,62,11-12-2012,"$15,716.00 "
+male,group E,high school,standard,completed,1952,81,80,76,10/29/12,"$46,610.00 "
+female,group B,some college,free/reduced,none,1977,74,81,76,09-11-2012,"$74,985.00 "
+female,group B,some college,free/reduced,none,1945,58,61,66,5/28/14,"$45,576.00 "
+male,group D,some high school,free/reduced,completed,1945,80,79,79,5/28/14,"$113,734.00 "
+male,group C,some college,free/reduced,none,1987,35,28,27,5/18/14,"$57,100.00 "
+female,group C,high school,free/reduced,none,1972,42,62,60,5/18/14,"$24,434.00 "
+male,group C,associate's degree,free/reduced,completed,1971,60,51,56,3/30/14,"$37,126.00 "
+male,group E,high school,standard,completed,1958,87,91,81,3/29/14,"$45,160.00 "
+male,group B,some high school,standard,completed,1977,84,83,75,1/30/14,"$33,178.00 "
+female,group E,associate's degree,free/reduced,completed,1950,83,86,88,1/26/14,"$64,866.00 "
+female,group C,high school,free/reduced,none,1975,34,42,39,1/22/14,"$34,176.00 "
+male,group B,high school,free/reduced,none,1968,66,77,70,1/22/14,"$50,014.00 "
+male,group B,some high school,standard,completed,1948,61,56,56,1/15/14,"$92,344.00 "
+female,group D,high school,standard,completed,1970,56,68,74,12/13/13,"$55,282.00 "
+male,group B,associate's degree,standard,none,1963,87,85,73,11-05-2013,"$48,799.00 "
+female,group C,some high school,free/reduced,none,1982,55,65,62,08-07-2013,"$84,169.00 "
+male,group D,some high school,standard,none,1982,86,80,75,08-07-2013,"$84,169.00 "
+female,group B,associate's degree,standard,completed,1971,52,66,73,08-04-2013,"$39,763.00 "
+female,group E,master's degree,free/reduced,none,1975,45,56,54,05-01-2013,"$74,165.00 "
+female,group C,some college,standard,none,1965,72,72,71,4/24/13,"$42,720.00 "
+male,group D,high school,standard,none,1944,57,50,54,04-03-2013,"$65,275.00 "
+male,group A,some high school,free/reduced,none,1961,68,72,64,02-03-2013,"$36,443.00 "
+female,group C,some college,standard,completed,1952,88,95,94,02-03-2013,"$43,776.00 "
+male,group D,some college,standard,none,1965,76,64,66,01-02-2013,"$56,046.00 "
+male,group C,associate's degree,standard,none,1958,46,43,42,11/16/12,"$65,148.00 "
+female,group B,bachelor's degree,standard,none,1955,67,86,83,08-03-2012,"$49,431.00 "
+male,group E,some high school,standard,none,1961,92,87,78,6/15/14,"$32,583.00 "
+male,group C,bachelor's degree,standard,completed,1979,83,82,84,4/18/14,"$16,653.00 "
+male,group D,associate's degree,standard,none,1971,80,75,77,4/18/14,"$26,850.00 "
+male,group D,bachelor's degree,free/reduced,none,1968,63,66,67,04-01-2014,"$51,287.00 "
+female,group D,some high school,standard,completed,1973,64,60,74,3/18/14,"$43,050.00 "
+male,group B,some college,standard,none,1969,54,52,51,02-10-2014,"$73,448.00 "
+male,group C,associate's degree,standard,none,1992,84,80,80,11/23/13,"$17,256.00 "
+male,group D,high school,free/reduced,completed,1961,73,68,66,11/21/13,"$86,429.00 "
+female,group E,bachelor's degree,standard,none,1983,80,83,83,10/16/13,"$33,569.00 "
+female,group D,high school,standard,none,1980,56,52,55,10-02-2013,"$25,130.00 "
+male,group E,some college,standard,none,1952,59,51,43,9/30/13,"$62,998.00 "
+male,group D,some high school,standard,none,1976,75,74,69,8/20/13,"$26,907.00 "
+male,group C,associate's degree,standard,none,1976,85,76,71,8/20/13,"$26,907.00 "
+male,group E,associate's degree,standard,none,1948,89,76,74,8/20/13,"$45,579.00 "
+female,group B,high school,standard,completed,1957,58,70,68,08-01-2013,"$47,320.00 "
+female,group B,high school,standard,none,1976,65,64,62,7/21/13,"$70,179.00 "
+male,group C,high school,standard,none,1976,68,60,53,7/21/13,"$70,179.00 "
+male,group A,some high school,standard,completed,1986,47,49,49,07-08-2013,"$28,072.00 "
+female,group D,some college,free/reduced,none,1954,71,83,83,6/18/13,"$50,501.00 "
+female,group B,some high school,standard,completed,1969,60,70,70,3/24/13,"$58,917.00 "
+male,group D,master's degree,standard,none,1949,80,80,72,2/19/13,"$69,372.00 "
+male,group D,high school,standard,none,1971,54,52,52,01-10-2013,"$35,178.00 "
+female,group E,some college,standard,none,1971,62,73,70,01-10-2013,"$35,178.00 "
+female,group C,associate's degree,free/reduced,none,1968,64,73,68,12-06-2012,"$75,693.00 "
+male,group C,associate's degree,standard,completed,1982,78,77,77,11-09-2012,"$69,109.00 "
+female,group B,some college,standard,none,1982,70,75,78,11-09-2012,"$69,109.00 "
+female,group C,master's degree,free/reduced,completed,1994,65,81,81,2/14/14,"$80,134.00 "
+female,group C,some high school,free/reduced,completed,1970,64,79,77,02-07-2014,"$64,713.00 "
+male,group C,some college,standard,completed,1986,79,79,78,12-07-2013,"$41,411.00 "
+female,group C,some high school,free/reduced,none,1983,44,50,51,11/15/13,
+female,group E,high school,standard,none,1955,99,93,90,10/22/13,"$55,521.00 "
+male,group D,high school,standard,none,1968,76,73,68,10/16/13,"$43,795.00 "
+male,group D,some high school,free/reduced,none,1970,59,42,41,10-04-2013,"$22,070.00 "
+female,group C,bachelor's degree,standard,none,1949,63,75,81,9/21/13,"$36,408.00 "
+female,group D,high school,standard,none,1950,69,72,77,08-05-2013,"$34,026.00 "
+female,group D,associate's degree,standard,completed,1950,88,92,95,08-05-2013,"$34,026.00 "
+female,group E,some college,free/reduced,none,1976,71,76,70,7/21/13,"$46,049.00 "
+male,group C,bachelor's degree,standard,none,1972,69,63,61,7/14/13,"$35,641.00 "
+male,group C,some college,standard,none,1984,58,49,42,07-04-2013,"$32,414.00 "
+female,group D,associate's degree,free/reduced,none,1955,47,53,58,04-12-2013,"$59,821.00 "
+female,group D,some college,standard,none,1980,65,70,71,04-10-2013,"$34,968.00 "
+male,group B,some college,standard,completed,1967,88,85,76,04-08-2013,"$56,320.00 "
+male,group C,bachelor's degree,standard,none,1969,83,78,73,3/31/13,"$70,091.00 "
+female,group C,some high school,standard,completed,1956,85,92,93,3/31/13,"$46,097.00 "
+female,group E,high school,standard,completed,1963,59,63,75,3/17/13,"$41,003.00 "
+female,group C,some high school,free/reduced,none,1959,65,86,80,3/15/13,"$44,911.00 "
+male,group B,bachelor's degree,free/reduced,none,1975,73,56,57,2/20/13,"$33,249.00 "
+male,group D,high school,standard,none,1975,53,52,42,2/20/13,"$33,249.00 "
+male,group D,high school,standard,none,1950,45,48,46,1/21/13,"$42,873.00 "
+female,group D,bachelor's degree,free/reduced,none,1969,73,79,84,12-10-2012,"$51,039.00 "
+female,group D,some college,free/reduced,completed,1958,70,78,78,9/24/12,"$78,952.00 "
+female,group B,some high school,standard,none,1966,37,46,46,08-06-2012,"$29,435.00 "
+male,group B,associate's degree,standard,completed,1954,81,82,82,6/18/14,"$79,865.00 "
+male,group E,associate's degree,standard,completed,1988,97,82,88,05-12-2014,"$34,176.00 "
+female,group B,some high school,standard,none,1988,67,89,82,05-12-2014,"$34,176.00 "
+male,group B,bachelor's degree,free/reduced,none,1970,88,75,76,05-12-2014,"$65,968.00 "
+male,group E,some high school,standard,completed,1956,77,76,77,04-05-2014,"$86,424.00 "
+male,group C,associate's degree,standard,none,1966,76,70,68,12/21/13,"$67,272.00 "
+male,group D,some high school,standard,none,1957,86,73,70,11/23/13,"$78,499.00 "
+male,group C,some high school,standard,completed,1972,63,60,57,10/27/13,"$77,044.00 "
+female,group E,bachelor's degree,standard,none,1993,65,73,75,10/21/13,"$70,515.00 "
+male,group D,high school,free/reduced,completed,1975,78,77,80,9/19/13,"$17,459.00 "
+male,group B,associate's degree,free/reduced,none,1970,67,62,60,09-09-2013,"$80,336.00 "
+male,group A,some high school,standard,completed,1956,46,41,43,09-05-2013,"$15,759.00 "
+male,group E,associate's degree,standard,completed,1976,71,74,68,09-04-2013,"$26,326.00 "
+male,group C,high school,free/reduced,completed,1976,40,46,50,8/31/13,"$62,061.00 "
+male,group D,associate's degree,free/reduced,none,1976,90,87,75,7/30/13,"$5,305.00 "
+male,group A,some college,free/reduced,completed,1982,81,78,81,07-04-2013,"$75,777.00 "
+male,group D,some high school,free/reduced,none,1982,56,54,52,07-04-2013,"$75,777.00 "
+female,group C,associate's degree,standard,completed,1971,67,84,81,6/25/13,"$71,499.00 "
+male,group B,associate's degree,standard,none,1978,80,76,64,05-10-2013,"$31,626.00 "
+female,group C,associate's degree,standard,completed,1992,74,75,83,4/27/13,"$42,670.00 "
+male,group A,some college,standard,none,1973,69,67,69,4/18/13,"$83,917.00 "
+male,group E,some college,standard,completed,1969,99,87,81,12/30/12,"$41,021.00 "
+male,group C,some high school,standard,none,1956,51,52,44,8/22/12,"$79,456.00 "
+female,group B,associate's degree,free/reduced,none,1980,53,71,67,08-08-2012,"$78,789.00 "
+female,group D,high school,free/reduced,none,1952,49,57,52,6/19/14,"$50,870.00 "
+female,group B,associate's degree,standard,none,1983,73,76,80,4/20/14,"$35,876.00 "
+male,group B,bachelor's degree,standard,none,1957,66,60,57,2/28/14,"$23,539.00 "
+male,group D,bachelor's degree,standard,completed,1967,67,61,68,2/24/14,"$32,557.00 "
+female,group C,associate's degree,free/reduced,completed,1970,68,67,69,1/15/14,"$62,466.00 "
+female,group C,bachelor's degree,standard,completed,1970,59,64,75,1/15/14,"$62,466.00 "
+male,group C,high school,standard,none,1966,71,66,65,12/17/13,"$54,198.00 "
+female,group D,master's degree,standard,completed,1978,77,82,91,11/25/13,"$82,170.00 "
+male,group C,associate's degree,standard,none,1964,83,72,78,11/23/13,"$61,798.00 "
+male,group B,bachelor's degree,standard,none,1992,63,71,69,10/28/13,"$15,253.00 "
+female,group D,associate's degree,free/reduced,none,1988,56,65,63,10/28/13,"$78,285.00 "
+female,group C,high school,free/reduced,completed,1955,67,79,84,10-03-2013,"$62,535.00 "
+female,group E,high school,standard,none,1973,75,86,79,8/15/13,"$27,190.00 "
+female,group C,some college,standard,none,1968,71,81,80,07-05-2013,"$48,985.00 "
+female,group C,some high school,free/reduced,none,1970,43,53,53,6/19/13,"$72,940.00 "
+female,group C,high school,free/reduced,none,1985,41,46,43,6/16/13,"$36,145.00 "
+female,group C,some college,standard,none,1977,82,90,94,4/29/13,"$157,146.00 "
+male,group C,some college,standard,none,1960,61,61,62,4/22/13,"$81,843.00 "
+male,group A,some college,free/reduced,none,1988,28,23,19,3/19/13,"$41,883.00 "
+male,group C,associate's degree,standard,completed,1964,82,75,77,2/23/13,"$45,759.00 "
+female,group B,some high school,standard,none,1964,41,55,51,2/23/13,"$45,759.00 "
+male,group C,high school,standard,none,1986,71,60,61,2/15/13,"$78,394.00 "
+male,group C,associate's degree,standard,none,1989,47,37,35,12/30/12,"$30,279.00 "
+male,group E,associate's degree,standard,completed,1989,62,56,53,12/30/12,"$30,279.00 "
+male,group B,associate's degree,standard,none,1970,90,78,81,10/31/12,"$31,880.00 "
+female,group C,bachelor's degree,standard,none,1973,83,93,95,10-07-2012,"$60,208.00 "
+female,group B,some college,free/reduced,none,1983,61,68,66,08-09-2012,"$78,687.00 "
+male,group D,some high school,standard,completed,1973,76,70,69,05-06-2014,"$37,401.00 "
+male,group C,associate's degree,standard,none,1973,49,51,43,05-06-2014,"$37,401.00 "
+female,group B,some high school,free/reduced,none,1954,24,38,27,4/15/14,"$75,315.00 "
+female,group D,some high school,free/reduced,completed,1965,35,55,60,03-05-2014,"$69,263.00 "
+male,group C,high school,free/reduced,none,1946,58,61,52,2/19/14,"$78,569.00 "
+female,group C,high school,standard,none,1966,61,73,63,01-11-2014,"$57,705.00 "
+female,group B,high school,standard,completed,1955,69,76,74,11-06-2013,"$74,805.00 "
+male,group D,associate's degree,standard,completed,1961,67,72,67,10-02-2013,"$66,426.00 "
+male,group D,some college,standard,none,1949,79,73,67,09-07-2013,"$51,529.00 "
+female,group C,high school,standard,none,1946,72,80,75,08-06-2013,"$18,100.00 "
+male,group B,some college,standard,none,1977,62,61,57,7/25/13,"$59,601.00 "
+female,group C,bachelor's degree,standard,completed,1977,77,94,95,4/30/13,"$20,981.00 "
+male,group D,high school,free/reduced,none,1976,75,74,66,3/19/13,"$74,068.00 "
+male,group E,associate's degree,standard,none,1983,87,74,76,03-01-2013,"$36,790.00 "
+female,group B,bachelor's degree,standard,none,1971,52,65,69,01-12-2013,"$18,793.00 "
+male,group E,some college,standard,none,1954,66,57,52,12-12-2012,"$27,421.00 "
+female,group C,some college,standard,completed,1972,63,78,80,11-12-2012,"$30,675.00 "
+female,group C,associate's degree,standard,none,1974,46,58,57,9/22/12,"$83,145.00 "
+female,group C,some college,standard,none,1968,59,71,70,09-10-2012,"$34,053.00 "
+female,group B,bachelor's degree,standard,none,1983,61,72,70,3/20/14,"$31,788.00 "
+male,group A,associate's degree,standard,none,1974,63,61,61,2/27/14,"$45,894.00 "
+female,group C,some college,free/reduced,completed,1978,42,66,69,02-09-2014,"$41,986.00 "
+male,group D,some college,free/reduced,none,1962,59,62,61,10-12-2013,"$42,769.00 "
+female,group D,some college,standard,none,1982,80,90,89,9/28/13,"$58,582.00 "
+female,group B,high school,standard,none,1964,58,62,59,9/24/13,"$49,096.00 "
+male,group B,some high school,standard,completed,1980,85,84,78,05-05-2013,"$76,412.00 "
+female,group C,some college,standard,none,1990,52,58,58,2/16/13,"$18,929.00 "
+female,group D,some high school,free/reduced,none,1990,27,34,32,2/16/13,"$18,929.00 "
+male,group C,some college,standard,none,1990,59,60,58,2/16/13,"$18,929.00 "
+male,group A,bachelor's degree,free/reduced,completed,1986,49,58,60,12/29/12,"$21,888.00 "
+male,group C,high school,standard,completed,1978,69,58,53,12-10-2012,"$41,580.00 "
+male,group C,bachelor's degree,free/reduced,none,1979,61,66,61,11/22/12,"$31,605.00 "
+female,group A,some high school,free/reduced,none,1974,44,64,58,9/18/12,"$25,509.00 "
+female,group D,some high school,standard,none,1974,73,84,85,9/18/12,"$25,509.00 "
+male,group E,some college,standard,none,1959,84,77,71,8/16/12,"$33,051.00 "
+female,group C,some college,free/reduced,completed,1966,45,73,70,06-05-2014,"$28,764.00 "
+male,group D,some high school,standard,none,1983,74,74,72,05-12-2014,"$32,146.00 "
+female,group D,some college,standard,completed,1983,82,97,96,4/13/14,"$22,148.00 "
+female,group D,bachelor's degree,standard,none,1979,59,70,73,04-10-2014,"$36,781.00 "
+male,group E,associate's degree,free/reduced,none,1960,46,43,41,04-03-2014,"$54,197.00 "
+female,group D,some high school,standard,none,1970,80,90,82,02-12-2014,"$93,790.00 "
+female,group D,master's degree,free/reduced,completed,1972,85,95,100,02-10-2014,"$24,762.00 "
+female,group A,some high school,standard,none,1984,71,83,77,1/22/14,"$30,477.00 "
+male,group A,bachelor's degree,standard,none,1975,66,64,62,12/15/13,"$11,448.00 "
+female,group B,associate's degree,standard,none,1967,80,86,83,10/30/13,"$70,844.00 "
+male,group C,associate's degree,standard,completed,1980,87,100,95,10-04-2013,"$30,828.00 "
+male,group C,master's degree,free/reduced,none,1967,79,81,71,09-09-2013,"$62,513.00 "
+female,group E,some high school,free/reduced,none,1981,38,49,45,8/26/13,"$27,733.00 "
+female,group A,some high school,free/reduced,none,1973,38,43,43,08-06-2013,"$39,435.00 "
+female,group E,some college,standard,none,1970,67,76,75,02-02-2013,"$75,345.00 "
+female,group E,bachelor's degree,standard,none,1986,64,73,70,1/25/13,"$20,491.00 "
+female,group C,associate's degree,free/reduced,none,1971,57,78,67,11/17/12,"$36,715.00 "
+female,group D,high school,standard,none,1959,62,64,64,11/13/12,"$71,706.00 "
+male,group D,master's degree,standard,none,1966,73,70,75,11-07-2012,"$69,063.00 "
+male,group E,some high school,free/reduced,completed,1988,73,67,59,11-01-2012,"$24,645.00 "
+female,group D,some college,standard,none,1975,77,68,77,10/16/12,"$35,797.00 "
+male,group E,some college,standard,none,1969,76,67,67,6/19/14,"$44,078.00 "
+male,group C,associate's degree,standard,completed,1971,57,54,56,05-08-2014,"$26,954.00 "
+female,group C,some high school,standard,completed,1972,65,74,77,03-02-2014,
+male,group A,high school,free/reduced,none,1972,48,45,41,03-02-2014,"$38,887.00 "
+female,group B,high school,free/reduced,none,1974,50,67,63,1/30/14,"$65,463.00 "
+female,group C,associate's degree,standard,none,1959,85,89,95,1/30/14,"$53,537.00 "
+male,group B,some high school,standard,none,1971,74,63,57,10/17/13,"$36,230.00 "
+male,group D,some high school,standard,none,1950,60,59,54,8/15/13,"$80,763.00 "
+female,group C,some high school,standard,completed,1971,59,54,67,6/24/13,"$60,585.00 "
+male,group A,some college,standard,none,1974,53,43,43,6/13/13,"$49,166.00 "
+female,group A,some college,free/reduced,none,1955,49,65,55,4/23/13,"$75,261.00 "
+female,group D,high school,standard,completed,1991,88,99,100,4/15/13,"$89,891.00 "
+female,group C,high school,standard,none,1962,54,59,62,2/14/13,"$72,828.00 "
+female,group C,some high school,standard,none,1952,63,73,68,1/29/13,"$75,278.00 "
+male,group B,associate's degree,standard,completed,1978,65,65,63,12/19/12,"$38,557.00 "
+female,group B,associate's degree,standard,none,1963,82,80,77,10/30/12,"$81,300.00 "
+female,group D,high school,free/reduced,completed,1965,52,57,56,10/23/12,"$60,161.00 "
+male,group D,associate's degree,standard,completed,1977,87,84,85,9/28/12,"$69,389.00 "
+female,group D,master's degree,standard,completed,1954,70,71,74,09-10-2012,"$64,497.00 "
+male,group E,some college,standard,completed,1980,84,83,78,08-11-2012,"$61,014.00 "
+male,group D,associate's degree,standard,none,1975,71,66,60,4/17/14,"$44,319.00 "
+male,group B,some high school,standard,completed,1957,63,67,67,3/18/14,"$53,233.00 "
+female,group C,bachelor's degree,free/reduced,completed,1954,51,72,79,3/18/14,"$77,972.00 "
+male,group E,high school,standard,none,1987,84,73,69,2/25/14,"$81,361.00 "
+male,group C,bachelor's degree,standard,completed,1987,71,74,68,2/25/14,"$81,361.00 "
+male,group C,associate's degree,standard,none,1984,74,73,67,1/18/14,"$25,707.00 "
+male,group D,some college,standard,none,1971,68,59,62,12-11-2013,"$42,403.00 "
+male,group E,high school,free/reduced,completed,1972,57,56,54,10/13/13,"$65,704.00 "
+female,group C,associate's degree,free/reduced,completed,1980,82,93,93,10-10-2013,"$37,406.00 "
+female,group D,high school,standard,completed,1951,57,58,64,7/21/13,"$39,767.00 "
+female,group D,master's degree,free/reduced,completed,1979,47,58,67,5/20/13,"$54,210.00 "
+female,group A,some high school,standard,completed,1967,59,85,80,5/18/13,"$57,136.00 "
+male,group B,some college,free/reduced,none,1975,41,39,34,04-07-2013,"$40,794.00 "
+female,group C,some college,free/reduced,none,1965,62,67,62,03-03-2013,"$83,003.00 "
+male,group C,bachelor's degree,standard,none,1960,86,83,86,12-07-2012,"$89,058.00 "
+male,group C,some high school,free/reduced,none,1991,69,71,65,11/28/12,"$20,193.00 "
+male,group A,some high school,free/reduced,none,1974,65,59,53,10/27/12,"$72,099.00 "
+male,group C,some high school,free/reduced,none,1971,68,63,54,9/15/12,"$43,824.00 "
+male,group C,associate's degree,free/reduced,none,1975,64,66,59,09-07-2012,"$66,653.00 "
+female,group C,high school,standard,none,1978,61,72,70,6/17/14,"$44,359.00 "
+male,group C,high school,standard,none,1961,61,56,55,5/29/14,"$79,410.00 "
+female,group A,some high school,free/reduced,none,1977,47,59,50,5/23/14,"$55,842.00 "
+male,group C,some high school,standard,none,1966,73,66,66,05-12-2014,"$79,946.00 "
+male,group C,some college,free/reduced,completed,1979,50,48,53,3/19/14,"$88,194.00 "
+male,group D,associate's degree,standard,none,1944,75,68,64,03-01-2014,"$80,184.00 "
+male,group D,associate's degree,free/reduced,none,1967,75,66,73,2/15/14,"$76,982.00 "
+male,group C,high school,standard,none,1980,70,56,51,12/23/13,"$65,295.00 "
+male,group D,some high school,standard,completed,1973,89,88,82,12-04-2013,"$57,100.00 "
+female,group C,some college,standard,completed,1981,67,81,79,11/29/13,"$29,009.00 "
+female,group D,high school,standard,none,1971,78,81,80,10/25/13,"$78,931.00 "
+female,group A,some high school,free/reduced,none,1975,59,73,69,10-02-2013,"$7,500.00 "
+female,group B,associate's degree,standard,none,1976,73,83,76,9/18/13,"$56,939.00 "
+male,group A,some high school,free/reduced,none,1990,79,82,73,8/17/13,"$64,509.00 "
+female,group C,some high school,standard,completed,1990,67,74,77,07-08-2013,"$30,093.00 "
+male,group D,some college,free/reduced,none,1974,69,66,60,06-06-2013,"$30,351.00 "
+male,group C,high school,standard,completed,1974,86,81,80,06-06-2013,"$30,351.00 "
+male,group B,high school,standard,none,1960,47,46,42,3/29/13,"$38,201.00 "
+male,group B,associate's degree,standard,none,1986,81,73,72,2/20/13,
+female,group C,some college,free/reduced,completed,1980,64,85,85,12-12-2012,"$43,974.00 "
+female,group E,some college,standard,none,1970,100,92,97,12-07-2012,"$38,200.00 "
+female,group C,associate's degree,free/reduced,none,1960,65,77,74,9/23/12,"$87,305.00 "
+male,group C,some college,free/reduced,none,1961,65,58,49,09-12-2012,"$16,860.00 "
+female,group C,associate's degree,free/reduced,none,1972,53,61,62,8/30/12,"$27,213.00 "
+male,group C,bachelor's degree,free/reduced,none,1976,37,56,47,08-01-2012,"$7,500.00 "
+female,group D,bachelor's degree,standard,none,1965,79,89,89,6/22/14,"$4,861.00 "
+male,group D,associate's degree,free/reduced,none,1971,53,54,48,4/18/14,"$38,196.00 "
+female,group E,bachelor's degree,standard,none,1950,100,100,100,02-08-2014,"$41,145.00 "
+male,group B,high school,standard,completed,1982,72,65,68,1/28/14,"$38,513.00 "
+male,group C,bachelor's degree,free/reduced,none,1968,53,58,55,1/25/14,"$45,688.00 "
+male,group B,some college,free/reduced,none,1958,54,54,45,11/27/13,"$77,863.00 "
+female,group E,some college,standard,none,1969,71,70,76,10/19/13,"$42,169.00 "
+female,group C,some college,free/reduced,none,1964,77,90,91,05-07-2013,"$45,906.00 "
+male,group A,bachelor's degree,standard,completed,1988,75,58,62,03-07-2013,"$35,388.00 "
+female,group C,some college,standard,none,1969,84,87,91,2/28/13,"$80,952.00 "
+female,group D,associate's degree,free/reduced,none,1954,26,31,38,02-12-2013,"$39,898.00 "
+male,group A,high school,free/reduced,completed,1954,72,67,65,02-12-2013,"$39,898.00 "
+female,group A,high school,free/reduced,completed,1973,77,88,85,1/29/13,"$44,051.00 "
+male,group C,some college,standard,none,1954,91,74,76,1/17/13,"$86,718.00 "
+female,group C,associate's degree,standard,completed,1986,83,85,90,01-11-2013,"$80,141.00 "
+female,group C,high school,standard,none,1976,63,69,74,11/20/12,"$58,597.00 "
+female,group C,associate's degree,standard,completed,1945,68,86,84,11-05-2012,"$70,356.00 "
+female,group D,some high school,standard,none,1967,59,67,61,11-03-2012,"$46,904.00 "
+female,group B,associate's degree,standard,completed,1946,90,90,91,8/31/12,"$37,760.00 "
+female,group D,bachelor's degree,standard,completed,1946,71,76,83,8/31/12,"$37,760.00 "
+male,group E,bachelor's degree,standard,completed,1964,76,62,66,08-12-2012,"$61,839.00 "
+male,group D,associate's degree,standard,none,1972,80,68,72,5/15/14,"$29,791.00 "
+female,group D,master's degree,standard,none,1972,55,64,70,04-12-2014,"$48,918.00 "
+male,group E,associate's degree,standard,none,1972,76,71,67,04-12-2014,"$48,918.00 "
+male,group B,high school,standard,completed,1972,73,71,68,04-06-2014,"$58,692.00 "
+female,group D,associate's degree,free/reduced,none,1972,52,59,56,3/19/14,"$39,356.00 "
+male,group C,some college,free/reduced,none,1972,68,68,61,02-06-2014,"$76,234.00 "
+male,group A,high school,standard,none,1972,59,52,46,10-05-2013,"$55,434.00 "
+female,group B,associate's degree,standard,none,1972,49,52,54,9/28/13,"$66,835.00 "
+male,group C,high school,standard,none,1972,70,74,71,9/28/13,"$66,835.00 "
+male,group D,some college,free/reduced,none,1972,61,47,56,7/29/13,"$71,965.00 "
+female,group C,associate's degree,free/reduced,none,1972,60,75,74,6/29/13,"$74,538.00 "
+male,group B,some high school,standard,completed,1972,64,53,57,6/17/13,"$50,002.00 "
+male,group A,associate's degree,free/reduced,completed,1972,79,82,82,06-08-2013,"$53,977.00 "
+female,group A,associate's degree,free/reduced,none,1972,65,85,76,06-08-2013,"$53,977.00 "
+female,group C,associate's degree,standard,none,1972,64,64,70,5/26/13,"$69,930.00 "
+female,group C,some college,standard,none,1972,83,83,90,3/17/13,"$62,981.00 "
+female,group C,bachelor's degree,standard,none,1972,81,88,90,1/21/13,"$46,014.00 "
+female,group B,high school,standard,none,1972,54,64,68,11-08-2012,"$18,227.00 "
+male,group D,high school,standard,completed,1972,68,64,66,09-07-2012,"$65,991.00 "
+female,group C,some college,standard,none,1972,54,48,52,8/26/12,"$38,808.00 "
+female,group D,some college,free/reduced,completed,1972,59,78,76,08-04-2012,"$160,803.00 "
+female,group B,some high school,standard,none,1972,66,69,68,5/29/14,"$43,783.00 "
+male,group E,some college,standard,none,1972,76,71,72,4/30/14,"$30,396.00 "
+female,group D,master's degree,standard,none,1972,74,79,82,04-11-2014,"$65,526.00 "
+female,group B,associate's degree,standard,completed,1972,94,87,92,04-11-2014,"$65,526.00 "
+male,group C,some college,free/reduced,none,1972,63,61,54,04-07-2014,"$55,956.00 "
+female,group E,associate's degree,standard,completed,1972,95,89,92,04-05-2014,"$55,563.00 "
+female,group D,master's degree,free/reduced,none,1972,40,59,54,03-12-2014,"$57,236.00 "
+female,group B,some high school,standard,none,1972,82,82,80,10-09-2013,"$89,694.00 "
+male,group A,high school,standard,none,1972,68,70,66,6/25/13,"$57,420.00 "
+male,group B,bachelor's degree,free/reduced,none,1972,55,59,54,4/13/13,"$33,622.00 "
+male,group C,master's degree,standard,none,1972,79,78,77,2/13/13,"$29,999.00 "
+female,group C,bachelor's degree,standard,none,1972,86,92,87,12-06-2012,"$31,497.00 "
+male,group D,some college,standard,none,1972,76,71,73,12-06-2012,"$31,497.00 "
+male,group A,some high school,standard,none,1972,64,50,43,6/16/14,"$36,802.00 "
+male,group D,some high school,free/reduced,none,1972,62,49,52,06-03-2014,"$61,671.00 "
+female,group B,some high school,standard,completed,1972,54,61,62,5/17/14,"$60,182.00 "
+female,group B,master's degree,free/reduced,completed,1972,77,97,94,3/25/14,"$29,732.00 "
+female,group C,some high school,standard,completed,1972,76,87,85,03-10-2014,"$45,921.00 "
+female,group D,some college,standard,none,1972,74,89,84,03-01-2014,"$16,529.00 "
+female,group E,some college,standard,completed,1972,66,74,73,2/17/14,"$98,777.00 "
+female,group D,some high school,standard,completed,1972,66,78,78,2/17/14,"$98,777.00 "
+female,group B,high school,free/reduced,completed,1972,67,78,79,02-05-2014,"$77,027.00 "
+male,group D,some college,standard,none,1972,71,49,52,1/27/14,"$69,139.00 "
+female,group C,associate's degree,standard,none,1972,91,86,84,1/27/14,"$69,139.00 "
+male,group D,bachelor's degree,standard,none,1972,69,58,57,1/14/14,"$65,169.00 "
+male,group C,master's degree,free/reduced,none,1972,54,59,50,10/16/13,"$40,049.00 "
+male,group C,high school,standard,completed,1972,53,52,49,10-02-2013,"$69,755.00 "
+male,group E,some college,standard,none,1972,68,60,59,07-11-2013,
+male,group C,some high school,free/reduced,completed,1972,56,61,60,07-11-2013,"$54,456.00 "
+female,group C,high school,free/reduced,none,1972,36,53,43,06-02-2013,"$666,666.00 "
+female,group D,bachelor's degree,free/reduced,none,1972,29,41,47,06-01-2013,"$60,689.00 "
+female,group C,associate's degree,standard,none,1972,62,74,70,5/20/13,"$26,487.00 "
+female,group C,associate's degree,standard,completed,1972,68,67,73,05-04-2013,"$28,164.00 "
+female,group C,some high school,standard,none,1972,47,54,53,3/18/13,"$22,585.00 "
+male,group E,associate's degree,standard,completed,1972,62,61,58,1/17/13,"$64,795.00 "
+female,group E,associate's degree,standard,completed,1972,79,88,94,01-10-2013,"$42,000.00 "
+male,group B,high school,standard,completed,1972,73,69,68,01-10-2013,"$42,000.00 "
+female,group C,bachelor's degree,free/reduced,completed,1972,66,83,83,12-03-2012,"$70,713.00 "
+male,group C,associate's degree,standard,completed,1972,51,60,58,11/24/12,"$82,800.00 "
+female,group D,high school,standard,none,1972,51,66,62,11/24/12,"$82,800.00 "
+male,group E,bachelor's degree,standard,completed,1972,85,66,71,10/26/12,"$30,801.00 "
+male,group A,associate's degree,standard,completed,1972,97,92,86,6/20/14,"$83,891.00 "
+male,group C,high school,standard,completed,1972,75,69,68,05-01-2014,"$38,054.00 "
+male,group D,associate's degree,free/reduced,completed,1972,79,82,80,1/26/14,"$14,045.00 "
+female,group C,associate's degree,standard,none,1972,81,77,79,1/19/14,"$44,155.00 "
+female,group D,associate's degree,standard,none,1972,82,95,89,01-09-2014,"$57,642.00 "
+female,group D,master's degree,standard,none,1972,64,63,66,12/29/13,"$31,353.00 "
+male,group E,some high school,free/reduced,completed,1972,78,83,80,12/29/13,"$31,353.00 "
+female,group A,some high school,standard,completed,1972,92,100,97,12/26/13,"$41,335.00 "
+male,group C,high school,standard,completed,1972,72,67,64,12/26/13,"$41,335.00 "
+female,group C,high school,free/reduced,none,1972,62,67,64,12-08-2013,"$40,737.00 "
+male,group C,master's degree,standard,none,1972,79,72,69,11/20/13,"$19,789.00 "
+male,group C,some high school,free/reduced,none,1972,79,76,65,9/27/13,"$35,946.00 "
+male,group B,bachelor's degree,free/reduced,completed,1972,87,90,88,9/20/13,"$36,262.00 "
+female,group B,associate's degree,standard,none,1972,40,48,50,8/31/13,"$44,551.00 "
+male,group D,some college,free/reduced,none,1972,77,62,64,8/23/13,"$71,367.00 "
+male,group E,associate's degree,standard,none,1972,53,45,40,8/23/13,"$71,367.00 "
+female,group C,some college,free/reduced,none,1972,32,39,33,8/19/13,"$57,957.00 "
+female,group C,associate's degree,standard,completed,1972,55,72,79,7/24/13,"$50,334.00 "
+male,group C,master's degree,free/reduced,none,1972,61,67,66,06-08-2013,"$48,150.00 "
+female,group B,associate's degree,free/reduced,none,1972,53,70,70,2/16/13,"$56,796.00 "
+male,group D,some high school,standard,none,1972,73,66,62,2/16/13,"$56,796.00 "
+female,group D,some college,standard,completed,1972,74,75,79,1/25/13,"$52,278.00 "
+female,group C,some college,standard,none,1972,63,74,74,1/25/13,"$52,278.00 "
+male,group C,bachelor's degree,standard,completed,1972,96,90,92,11-09-2012,"$7,500.00 "
+female,group D,some college,free/reduced,completed,1972,63,80,80,11-03-2012,"$33,444.00 "
+male,group B,bachelor's degree,free/reduced,none,1972,48,51,46,10-06-2012,"$20,895.00 "
+male,group B,associate's degree,standard,none,1972,48,43,45,09-12-2012,"$37,509.00 "
+female,group E,bachelor's degree,free/reduced,completed,1972,92,100,100,8/18/12,"$88,097.00 "
+female,group D,master's degree,free/reduced,completed,1972,61,71,78,05-07-2014,"$59,041.00 "
+male,group B,high school,free/reduced,none,1972,63,48,47,4/21/14,"$43,322.00 "
+male,group D,bachelor's degree,free/reduced,none,1972,68,68,67,4/13/14,"$46,015.00 "
+male,group B,some college,standard,completed,1972,71,75,70,4/13/14,"$46,015.00 "
+male,group A,bachelor's degree,standard,none,1972,91,96,92,3/23/14,"$34,242.00 "
+female,group C,some college,standard,none,1972,53,62,56,03-10-2014,"$65,210.00 "
+female,group C,high school,free/reduced,completed,1972,50,66,64,1/28/14,"$50,520.00 "
+female,group E,high school,standard,none,1972,74,81,71,1/24/14,"$90,765.00 "
+male,group A,associate's degree,free/reduced,completed,1972,40,55,53,1/22/14,"$80,589.00 "
+male,group A,some college,standard,completed,1972,61,51,52,12/15/13,"$49,572.00 "
+female,group B,high school,standard,none,1972,81,91,89,11-09-2013,"$75,437.00 "
+female,group B,some college,free/reduced,completed,1972,48,56,58,10-11-2013,"$44,635.00 "
+female,group D,master's degree,standard,none,1972,53,61,68,9/19/13,"$58,512.00 "
+female,group D,some high school,standard,none,1972,81,97,96,8/25/13,"$62,000.00 "
+female,group E,some high school,standard,none,1972,77,79,80,5/28/13,"$54,252.00 "
+female,group D,bachelor's degree,free/reduced,none,1972,63,73,78,5/16/13,"$45,068.00 "
+female,group D,associate's degree,standard,completed,1972,73,75,80,04-01-2013,"$60,474.00 "
+female,group D,some college,standard,none,1972,69,77,77,04-01-2013,"$60,474.00 "
+female,group C,associate's degree,standard,none,1972,65,76,76,3/27/13,"$56,337.00 "
+female,group A,high school,standard,none,1972,55,73,73,2/13/13,"$22,434.00 "
+female,group C,bachelor's degree,free/reduced,none,1972,44,63,62,02-08-2013,"$61,416.00 "
+female,group C,some college,standard,none,1972,54,64,65,12-12-2012,"$92,163.00 "
+female,group A,some high school,standard,none,1972,48,66,65,9/20/12,"$58,656.00 "
+male,group C,some college,free/reduced,none,1972,58,57,54,9/14/12,
+male,group A,some high school,standard,none,1972,71,62,50,8/22/12,"$8,940.00 "
+male,group E,bachelor's degree,standard,none,1972,68,68,64,5/22/14,"$26,751.00 "
+female,group E,high school,standard,none,1972,74,76,73,03-12-2014,"$71,427.00 "
+female,group C,bachelor's degree,standard,completed,1972,92,100,99,02-10-2014,"$26,646.00 "
+female,group C,bachelor's degree,standard,completed,1972,56,79,72,1/30/14,"$19,346.00 "
+male,group B,high school,free/reduced,none,1972,30,24,15,12/30/13,"$56,243.00 "
+male,group A,some high school,standard,none,1972,53,54,48,11-02-2013,"$59,892.00 "
+female,group D,high school,standard,none,1972,69,77,73,8/21/13,"$71,613.00 "
+female,group D,some high school,standard,none,1972,65,82,81,07-12-2013,"$25,252.00 "
+female,group D,master's degree,standard,none,1972,54,60,63,6/28/13,"$42,160.00 "
+female,group C,high school,standard,none,1972,29,29,30,6/27/13,"$15,862.00 "
+female,group E,some college,standard,none,1972,76,78,80,06-04-2013,"$82,584.00 "
+male,group D,high school,free/reduced,none,1972,60,57,51,5/31/13,"$38,360.00 "
+male,group D,master's degree,free/reduced,completed,1972,84,89,90,3/27/13,"$75,283.00 "
+male,group C,some high school,standard,none,1972,75,72,62,03-06-2013,"$34,941.00 "
+female,group C,associate's degree,standard,none,1972,85,84,82,2/18/13,"$61,823.00 "
+female,group C,master's degree,free/reduced,none,1972,40,58,54,9/26/12,"$90,226.00 "
+female,group E,some college,standard,none,1972,61,64,62,09-12-2012,"$44,989.00 "
+female,group B,associate's degree,standard,none,1972,58,63,65,09-12-2012,"$44,989.00 "
+male,group D,some college,free/reduced,completed,1972,69,60,63,8/30/12,"$43,586.00 "
+female,group C,some college,standard,none,1972,58,59,66,8/19/12,"$32,233.00 "
+male,group C,bachelor's degree,standard,completed,1972,94,90,91,08-09-2012,"$62,882.00 "
+female,group C,associate's degree,standard,none,1972,65,77,74,6/25/14,"$57,288.00 "
+female,group A,associate's degree,standard,none,1972,82,93,93,05-02-2014,"$75,774.00 "
+female,group C,high school,standard,none,1972,60,68,72,05-02-2014,"$75,774.00 "
+female,group E,bachelor's degree,standard,none,1972,37,45,38,4/29/14,"$90,247.00 "
+male,group D,bachelor's degree,standard,none,1972,88,78,83,2/15/14,"$32,218.00 "
+male,group D,master's degree,standard,none,1972,95,81,84,02-02-2014,"$84,219.00 "
+male,group C,associate's degree,free/reduced,completed,1972,65,73,68,02-02-2014,"$84,219.00 "
+female,group C,high school,free/reduced,none,1972,35,61,54,01-05-2014,"$48,877.00 "
+male,group B,bachelor's degree,free/reduced,none,1972,62,63,56,12-05-2013,"$60,905.00 "
+male,group C,high school,free/reduced,completed,1972,58,51,52,11/25/13,"$75,236.00 "
+male,group A,some college,standard,completed,1972,100,96,86,11/18/13,"$62,551.00 "
+female,group E,bachelor's degree,free/reduced,none,1972,61,58,62,9/28/13,"$70,123.00 "
+male,group D,some college,standard,completed,1972,100,97,99,09-10-2013,"$50,785.00 "
+male,group B,associate's degree,free/reduced,completed,1972,69,70,63,08-03-2013,"$15,315.00 "
+male,group D,associate's degree,standard,none,1972,61,48,46,08-03-2013,"$15,315.00 "
+male,group D,some college,free/reduced,none,1972,49,57,46,08-01-2013,"$64,413.00 "
+female,group C,some high school,standard,completed,1972,44,51,55,05-01-2013,"$87,171.00 "
+male,group D,some college,standard,none,1972,67,64,70,2/21/13,"$30,081.00 "
+male,group B,high school,standard,none,1972,79,60,65,2/20/13,"$20,180.00 "
+female,group B,bachelor's degree,standard,completed,1972,66,74,81,2/20/13,"$20,180.00 "
+female,group C,high school,standard,none,1972,75,88,85,2/14/13,"$55,686.00 "
+male,group D,some high school,standard,none,1972,84,84,80,02-10-2013,"$26,887.00 "
+male,group A,high school,standard,none,1972,71,74,64,1/31/13,"$61,996.00 "
+female,group B,high school,free/reduced,completed,1972,67,80,81,12-09-2012,"$51,537.00 "
+female,group D,some high school,standard,completed,1972,80,92,88,11/17/12,"$72,025.00 "
+male,group E,some college,standard,none,1972,86,76,74,10-01-2012,"$30,538.00 "
+female,group D,associate's degree,standard,none,1972,76,74,73,9/29/12,"$61,618.00 "
+male,group D,high school,standard,none,1972,41,52,51,06-09-2014,"$77,343.00 "
+female,group D,associate's degree,free/reduced,completed,1972,74,88,90,04-05-2014,"$75,433.00 "
+female,group B,some high school,free/reduced,none,1972,72,81,79,04-02-2014,"$82,571.00 "
+female,group E,high school,standard,completed,1972,74,79,80,3/29/14,"$60,033.00 "
+male,group B,high school,standard,none,1972,70,65,60,3/25/14,"$39,062.00 "
+female,group B,bachelor's degree,standard,completed,1972,65,81,81,3/24/14,"$30,023.00 "
+female,group D,associate's degree,standard,none,1972,59,70,65,02-02-2014,"$30,015.00 "
+female,group E,high school,free/reduced,none,1972,64,62,68,1/23/14,"$33,228.00 "
+female,group B,high school,standard,none,1972,50,53,55,10/28/13,"$22,574.00 "
+female,group D,some college,standard,completed,1972,69,79,81,10/28/13,"$22,574.00 "
+male,group C,some high school,free/reduced,completed,1972,51,56,53,10/21/13,"$55,267.00 "
+female,group A,high school,standard,completed,1972,68,80,76,9/16/13,"$66,886.00 "
+female,group D,some college,standard,completed,1972,85,86,98,09-12-2013,"$72,258.00 "
+female,group A,associate's degree,standard,completed,1972,65,70,74,09-10-2013,"$82,733.00 "
+female,group B,some high school,standard,none,1972,73,79,79,7/15/13,"$45,146.00 "
+female,group B,some college,standard,none,1972,62,67,67,3/30/13,"$51,250.00 "
+male,group C,associate's degree,free/reduced,none,1972,77,67,64,03-09-2013,"$32,871.00 "
+male,group D,some high school,standard,none,1972,69,66,61,02-09-2013,"$63,855.00 "
+female,group D,associate's degree,free/reduced,none,1972,43,60,58,01-02-2013,"$42,564.00 "
+male,group D,associate's degree,standard,none,1972,90,87,85,12/14/12,"$46,344.00 "
+male,group C,some college,free/reduced,none,1972,74,77,73,10/17/12,"$50,437.00 "
+male,group C,some high school,standard,none,1972,73,66,63,9/21/12,"$70,971.00 "
+female,group D,some college,free/reduced,none,1972,55,71,69,09-03-2012,"$37,774.00 "
+female,group C,high school,standard,none,1972,65,69,67,6/23/14,"$4,023.00 "
+male,group D,associate's degree,standard,none,1972,80,63,63,06-12-2014,"$33,279.00 "
+female,group C,some high school,free/reduced,completed,1972,50,60,60,06-07-2014,"$42,693.00 "
+female,group C,some college,free/reduced,completed,1972,63,73,71,06-03-2014,"$70,545.00 "
+female,group B,bachelor's degree,free/reduced,none,1972,77,85,87,05-12-2014,"$65,486.00 "
+male,group C,some college,standard,none,1972,73,74,61,4/30/14,"$77,882.00 "
+male,group D,associate's degree,standard,completed,1972,81,72,77,04-09-2014,"$78,468.00 "
+female,group C,high school,free/reduced,none,1972,66,76,68,2/28/14,"$77,226.00 "
+male,group D,associate's degree,free/reduced,none,1972,52,57,50,2/13/14,"$90,638.00 "
+female,group C,some college,standard,none,1972,69,78,76,2/13/14,"$90,638.00 "
+female,group C,associate's degree,standard,completed,1972,65,84,84,12-06-2013,"$70,666.00 "
+female,group D,high school,standard,completed,1972,69,77,78,11/17/13,"$59,052.00 "
+female,group B,some college,standard,completed,1972,50,64,66,11-02-2013,"$13,084.00 "
+female,group E,some college,standard,completed,1972,73,78,76,10/20/13,"$49,160.00 "
+female,group C,some high school,standard,completed,1972,70,82,76,10/17/13,"$23,272.00 "
+male,group D,associate's degree,free/reduced,none,1972,81,75,78,6/20/13,"$49,476.00 "
+male,group D,some college,free/reduced,none,1972,63,61,60,6/17/13,"$62,694.00 "
+female,group D,high school,standard,none,1972,67,72,74,06-11-2013,"$57,906.00 "
+male,group B,high school,standard,none,1972,60,68,60,05-08-2013,"$71,853.00 "
+male,group B,high school,standard,none,1972,62,55,54,05-08-2013,"$71,853.00 "
+female,group C,some high school,free/reduced,completed,1972,29,40,44,3/17/13,"$65,031.00 "
+male,group B,some college,standard,completed,1972,62,66,68,03-11-2013,"$30,507.00 "
+female,group E,master's degree,standard,completed,1972,94,99,100,1/16/13,"$67,419.00 "
+male,group E,some college,standard,completed,1972,85,75,68,01-05-2013,"$59,462.00 "
+male,group D,associate's degree,free/reduced,none,1972,77,78,73,12-03-2012,"$95,529.00 "
+male,group A,high school,free/reduced,none,1972,53,58,44,11-07-2012,"$53,653.00 "
+male,group E,some college,free/reduced,none,1972,93,90,83,09-07-2012,"$25,965.00 "
+female,group C,associate's degree,standard,none,1972,49,53,53,09-06-2012,"$22,979.00 "
+female,group E,associate's degree,free/reduced,none,1972,73,76,78,08-12-2012,"$64,950.00 "
+female,group C,bachelor's degree,free/reduced,completed,1972,66,74,81,6/16/14,"$44,322.00 "
+female,group D,associate's degree,standard,none,1972,77,77,73,5/22/14,"$30,096.00 "
+female,group C,some high school,standard,none,1972,49,63,56,5/22/14,"$30,096.00 "
+female,group D,some college,free/reduced,none,1972,79,89,86,3/21/14,"$56,628.00 "
+female,group C,associate's degree,standard,completed,1972,75,82,90,03-10-2014,"$82,326.00 "
+female,group A,bachelor's degree,standard,none,1972,59,72,70,03-09-2014,"$71,163.00 "
+female,group D,associate's degree,standard,completed,1972,57,78,79,02-11-2014,"$71,022.00 "
+male,group C,high school,free/reduced,none,1972,66,66,59,11/17/13,"$42,607.00 "
+female,group E,bachelor's degree,standard,completed,1972,79,81,82,10/30/13,"$43,057.00 "
+female,group B,some high school,standard,none,1972,57,67,72,10/20/13,"$47,808.00 "
+male,group A,bachelor's degree,standard,completed,1972,87,84,87,10-08-2013,"$29,236.00 "
+female,group D,some college,standard,none,1972,63,64,67,10-02-2013,"$40,590.00 "
+female,group B,some high school,free/reduced,completed,1972,59,63,64,10-02-2013,"$40,590.00 "
+male,group A,bachelor's degree,free/reduced,none,1972,62,72,65,8/28/13,"$77,520.00 "
+male,group D,high school,standard,none,1972,46,34,36,7/30/13,"$40,211.00 "
+male,group C,some college,standard,none,1972,66,59,52,07-06-2013,"$63,516.00 "
+male,group D,high school,standard,none,1972,89,87,79,5/30/13,"$53,034.00 "
+female,group D,associate's degree,free/reduced,completed,1972,42,61,58,5/22/13,"$22,669.00 "
+male,group C,some college,standard,completed,1972,93,84,90,04-05-2013,"$79,908.00 "
+female,group E,some high school,standard,completed,1972,80,85,85,04-02-2013,"$69,867.00 "
+female,group D,some college,standard,none,1972,98,100,99,04-02-2013,"$70,287.00 "
+male,group D,master's degree,standard,none,1972,81,81,84,3/20/13,"$37,070.00 "
+female,group B,some high school,standard,completed,1972,60,70,74,3/20/13,"$37,070.00 "
+female,group B,associate's degree,free/reduced,completed,1972,76,94,87,3/14/13,"$38,179.00 "
+male,group C,associate's degree,standard,completed,1972,73,78,72,2/14/13,"$39,922.00 "
+female,group C,associate's degree,standard,completed,1972,96,96,99,2/14/13,"$39,922.00 "
+female,group C,high school,standard,none,1972,76,76,74,2/14/13,"$39,922.00 "
+male,group E,associate's degree,free/reduced,completed,1972,91,73,80,1/22/13,"$64,191.00 "
+female,group C,some college,free/reduced,none,1972,62,72,70,11-09-2012,"$41,658.00 "
+male,group D,some high school,free/reduced,completed,1972,55,59,59,09-08-2012,"$40,780.00 "
+female,group B,some high school,free/reduced,completed,1972,74,90,88,8/25/12,"$77,568.00 "
+male,group C,high school,standard,none,1972,50,48,42,8/14/12,"$66,503.00 "
+male,group B,some college,standard,none,1972,47,43,41,6/17/14,"$83,512.00 "
+male,group E,some college,standard,completed,1972,81,74,71,06-05-2014,"$31,686.00 "
+female,group E,associate's degree,standard,completed,1972,65,75,77,05-02-2014,"$71,322.00 "
+male,group E,some high school,standard,completed,1972,68,51,57,4/28/14,"$27,938.00 "
+female,group D,high school,free/reduced,none,1972,73,92,84,3/30/14,"$22,263.00 "
+male,group C,some college,standard,none,1972,53,39,37,1/23/14,"$34,633.00 "
+female,group B,associate's degree,free/reduced,completed,1972,68,77,80,11/19/13,"$42,162.00 "
+male,group A,some high school,free/reduced,none,1972,55,46,43,06-03-2013,"$162,397.00 "
+female,group C,some college,standard,completed,1972,87,89,94,3/18/13,"$54,162.00 "
+male,group D,some high school,standard,none,1972,55,47,44,2/13/13,"$41,769.00 "
+female,group E,some college,free/reduced,none,1972,53,58,57,12/21/12,"$44,953.00 "
+male,group C,master's degree,standard,none,1972,67,57,59,11/23/12,"$37,717.00 "
+male,group C,associate's degree,standard,none,1972,92,79,84,11/23/12,"$37,717.00 "
+female,group B,some college,free/reduced,completed,1972,53,66,73,10-10-2012,"$40,548.00 "
+male,group D,associate's degree,standard,none,1972,81,71,73,10-01-2012,"$67,893.00 "
+male,group C,high school,free/reduced,none,1972,61,60,55,9/22/12,"$69,267.00 "
+male,group D,bachelor's degree,standard,none,1972,80,73,72,08-08-2012,"$9,548.00 "
+female,group A,associate's degree,free/reduced,none,1972,37,57,56,08-07-2012,"$68,281.00 "
+female,group C,high school,standard,none,1972,81,84,82,4/20/14,"$92,556.00 "
+female,group C,associate's degree,standard,completed,1972,59,73,72,12/24/13,"$48,526.00 "
+male,group B,some college,free/reduced,none,1972,55,55,47,12/14/13,"$90,273.00 "
+male,group D,associate's degree,standard,none,1972,72,79,74,10/16/13,"$19,414.00 "
+male,group D,high school,standard,none,1972,69,75,71,10-04-2013,"$79,761.00 "
+male,group C,some college,standard,none,1972,69,64,68,08-09-2013,"$53,312.00 "
+female,group C,bachelor's degree,free/reduced,none,1972,50,60,59,7/25/13,"$41,039.00 "
+male,group B,some college,standard,completed,1972,87,84,86,07-03-2013,"$88,347.00 "
+male,group D,some high school,standard,completed,1972,71,69,68,6/20/13,"$50,150.00 "
+male,group E,some college,standard,none,1972,68,72,65,6/20/13,"$50,150.00 "
+male,group C,master's degree,free/reduced,completed,1972,79,77,75,5/15/13,"$10,245.00 "
+female,group C,some high school,standard,completed,1972,77,90,85,05-08-2013,"$33,454.00 "
+male,group C,associate's degree,free/reduced,none,1972,58,55,53,05-06-2013,"$40,887.00 "
+female,group E,associate's degree,standard,none,1972,84,95,92,4/29/13,"$55,914.00 "
+male,group D,some college,standard,none,1972,55,58,52,4/18/13,"$37,292.00 "
+male,group E,bachelor's degree,free/reduced,completed,1972,70,68,72,01-07-2013,"$52,914.00 "
+female,group D,some college,free/reduced,completed,1972,52,59,65,11/29/12,"$24,884.00 "
+male,group B,some college,standard,completed,1972,69,77,77,11-10-2012,"$67,384.00 "
+female,group C,high school,free/reduced,none,1972,53,72,64,11-07-2012,"$51,651.00 "
+female,group D,some high school,standard,none,1972,48,58,54,10/31/12,"$82,497.00 "
+male,group D,some high school,standard,completed,1972,78,81,86,08-02-2012,"$32,632.00 "
+female,group B,high school,standard,none,1972,62,62,63,6/25/14,"$33,562.00 "
+male,group D,some college,standard,none,1972,60,63,59,4/24/14,"$79,146.00 "
+female,group B,high school,standard,none,1972,74,72,72,4/24/14,"$79,146.00 "
+female,group C,high school,standard,completed,1972,58,75,77,3/30/14,"$36,143.00 "
+male,group B,high school,standard,completed,1972,76,62,60,3/29/14,"$27,159.00 "
+female,group D,some high school,standard,none,1972,68,71,75,3/24/14,"$41,275.00 "
+male,group A,some college,free/reduced,none,1972,58,60,57,03-08-2014,"$76,800.00 "
+male,group B,high school,standard,none,1972,52,48,49,12/24/13,"$75,794.00 "
+male,group D,bachelor's degree,standard,none,1972,75,73,74,7/16/13,"$30,833.00 "
+female,group B,some high school,free/reduced,completed,1972,52,67,72,04-08-2013,"$26,518.00 "
+female,group C,bachelor's degree,free/reduced,none,1972,62,78,79,2/22/13,"$91,065.00 "
+male,group B,some college,standard,none,1972,66,65,60,1/20/13,"$45,183.00 "
+female,group B,some high school,free/reduced,none,1972,49,58,55,1/13/13,"$48,070.00 "
+female,group B,high school,standard,none,1972,66,72,70,12/25/12,"$30,372.00 "
+female,group C,some college,free/reduced,none,1972,35,44,43,12/25/12,"$30,372.00 "
+female,group A,some college,standard,completed,1972,72,79,82,12-11-2012,"$57,036.00 "
+male,group E,associate's degree,standard,completed,1972,94,85,82,09-12-2012,"$66,731.00 "
+female,group D,associate's degree,free/reduced,none,1972,46,56,57,6/27/14,"$35,682.00 "
+female,group B,master's degree,standard,none,1972,77,90,84,5/22/14,"$10,979.00 "
+female,group B,high school,free/reduced,completed,1972,76,85,82,5/22/14,"$10,979.00 "
+female,group C,associate's degree,standard,completed,1972,52,59,62,3/17/14,"$57,912.00 "
+male,group C,bachelor's degree,standard,completed,1972,91,81,79,3/16/14,"$36,026.00 "
+female,group B,some high school,standard,completed,1972,32,51,44,1/23/14,"$35,788.00 "
+female,group E,some high school,free/reduced,none,1972,72,79,77,12-11-2013,"$42,243.00 "
+female,group B,some college,standard,none,1972,19,38,32,11-03-2013,"$46,086.00 "
+male,group C,associate's degree,free/reduced,none,1972,68,65,61,10-06-2013,"$61,346.00 "
+female,group C,master's degree,free/reduced,none,1972,52,65,61,10-04-2013,"$33,316.00 "
+female,group B,high school,standard,none,1972,48,62,60,10-04-2013,"$33,316.00 "
+female,group D,some college,free/reduced,none,1972,60,66,70,9/25/13,"$21,063.00 "
+male,group D,high school,free/reduced,none,1972,66,74,69,9/15/13,"$33,697.00 "
+male,group E,some high school,standard,completed,1972,89,84,77,09-01-2013,"$25,804.00 "
+female,group B,high school,standard,none,1972,42,52,51,8/20/13,"$72,117.00 "
+female,group E,associate's degree,free/reduced,completed,1972,57,68,73,08-02-2013,"$61,286.00 "
+male,group D,high school,standard,none,1972,70,70,70,08-02-2013,"$61,286.00 "
+female,group E,associate's degree,free/reduced,none,1972,70,84,81,7/25/13,"$65,196.00 "
+male,group E,some college,standard,none,1972,69,60,54,11/13/12,"$55,635.00 "
+female,group C,associate's degree,standard,none,1972,52,55,57,8/31/12,"$42,021.00 "
+male,group C,some high school,standard,completed,1972,67,73,68,8/27/12,"$75,251.00 "
+male,group C,some high school,standard,completed,1972,76,80,73,8/22/12,"$35,322.00 "
+female,group E,associate's degree,standard,none,1972,87,94,95,8/16/12,"$53,374.00 "
+female,group B,some college,standard,none,1972,82,85,87,05-08-2014,"$87,195.00 "
+female,group C,some college,standard,none,1972,73,76,78,04-04-2014,"$42,395.00 "
+male,group A,some college,free/reduced,none,1972,75,81,74,03-12-2014,"$82,427.00 "
+female,group D,some college,free/reduced,none,1972,64,74,75,2/15/14,"$44,602.00 "
+female,group E,high school,free/reduced,none,1972,41,45,40,02-12-2014,"$94,642.00 "
+male,group C,high school,standard,none,1972,90,75,69,10/27/13,"$28,359.00 "
+male,group B,bachelor's degree,standard,none,1972,59,54,51,9/22/13,"$55,801.00 "
+male,group A,some high school,standard,none,1972,51,31,36,8/19/13,"$92,955.00 "
+male,group A,high school,free/reduced,none,1972,45,47,49,7/23/13,"$56,534.00 "
+female,group C,master's degree,standard,completed,1972,54,64,67,3/17/13,"$69,627.00 "
+male,group E,some high school,standard,completed,1972,87,84,76,12/22/12,"$78,579.00 "
+female,group C,high school,standard,none,1972,72,80,83,12/16/12,"$44,964.00 "
+male,group B,some high school,standard,completed,1972,94,86,87,10/13/12,"$30,899.00 "
+female,group A,bachelor's degree,standard,none,1972,45,59,64,9/14/12,"$78,825.00 "
+male,group D,bachelor's degree,free/reduced,completed,1972,61,70,76,09-08-2012,"$25,545.00 "
+female,group B,high school,free/reduced,none,1972,60,72,68,09-08-2012,"$47,111.00 "
+female,group C,some high school,standard,none,1972,77,91,88,8/20/12,"$49,667.00 "
+female,group A,some high school,standard,completed,1972,85,90,92,4/20/14,"$66,000.00 "
+female,group D,bachelor's degree,free/reduced,none,1972,78,90,93,3/23/14,"$46,910.00 "
+male,group E,some college,free/reduced,completed,1972,49,52,51,3/16/14,"$25,224.00 "
+female,group B,high school,free/reduced,none,1972,71,87,82,01-07-2014,"$77,382.00 "
+female,group C,some high school,free/reduced,none,1972,48,58,52,12/24/13,"$28,420.00 "
+male,group C,high school,standard,none,1972,62,67,58,12-01-2013,"$32,952.00 "
+female,group C,associate's degree,free/reduced,completed,1972,56,68,70,11/29/13,"$46,149.00 "
+female,group C,some high school,standard,none,1972,65,69,76,9/26/13,"$83,532.00 "
+female,group D,some high school,free/reduced,completed,1972,69,86,81,8/31/13,"$73,059.00 "
+male,group B,some high school,standard,none,1972,68,54,53,8/31/13,"$73,059.00 "
+female,group A,some college,free/reduced,none,1972,61,60,57,3/19/13,"$35,701.00 "
+female,group C,bachelor's degree,free/reduced,completed,1972,74,86,89,2/25/13,"$89,616.00 "
+male,group A,bachelor's degree,standard,none,1972,64,60,58,1/21/13,"$105,471.00 "
+female,group B,high school,standard,completed,1972,77,82,89,10/24/12,"$78,427.00 "
+male,group B,some college,standard,none,1972,58,50,45,10/22/12,"$22,518.00 "
+female,group C,high school,standard,completed,1972,60,64,74,10/18/12,"$59,809.00 "
+male,group E,high school,standard,none,1972,73,64,57,08-08-2012,"$39,660.00 "
+female,group A,high school,standard,completed,1972,75,82,79,7/31/12,"$52,203.00 "
+male,group B,associate's degree,free/reduced,completed,1972,58,57,53,5/19/14,"$35,860.00 "
+female,group C,associate's degree,standard,none,1972,66,77,73,5/19/14,"$35,860.00 "
+female,group D,high school,free/reduced,none,1972,39,52,46,5/19/14,"$35,860.00 "
+male,group C,some high school,standard,none,1972,64,58,51,5/19/14,"$35,860.00 "
+female,group B,high school,free/reduced,completed,1972,23,44,36,05-03-2014,"$76,842.00 "
+male,group B,some college,free/reduced,completed,1972,74,77,76,4/16/14,"$15,033.00 "
+female,group D,some high school,free/reduced,completed,1972,40,65,64,12/31/13,"$67,353.00 "
+male,group E,master's degree,standard,none,1972,90,85,84,12-09-2013,"$17,003.00 "
+male,group C,master's degree,standard,completed,1972,91,85,85,12-07-2013,"$65,735.00 "
+male,group D,high school,standard,none,1972,64,54,50,12-02-2013,"$45,684.00 "
+female,group C,high school,standard,none,1972,59,72,68,11/14/13,"$21,918.00 "
+male,group D,associate's degree,standard,none,1972,80,75,69,10/29/13,"$51,267.00 "
+male,group C,master's degree,standard,none,1972,71,67,67,7/22/13,"$59,868.00 "
+female,group A,high school,standard,none,1972,61,68,63,6/22/13,"$51,373.00 "
+female,group E,some college,standard,none,1972,87,85,93,06-06-2013,"$46,692.00 "
+male,group E,some high school,standard,none,1972,82,67,61,06-04-2013,"$157,733.00 "
+male,group C,some high school,standard,none,1972,62,64,55,05-09-2013,"$54,432.00 "
+female,group B,bachelor's degree,standard,none,1972,97,97,96,4/21/13,"$79,607.00 "
+male,group B,some college,free/reduced,none,1972,75,68,65,04-11-2013,"$51,813.00 "
+female,group C,bachelor's degree,standard,none,1972,65,79,81,3/18/13,"$17,487.00 "
+male,group B,high school,standard,completed,1972,52,49,46,1/17/13,"$40,706.00 "
+male,group C,associate's degree,free/reduced,none,1972,87,73,72,12/30/12,"$62,859.00 "
+female,group C,associate's degree,standard,none,1972,53,62,53,8/17/12,"$61,074.00 "
+female,group E,master's degree,free/reduced,none,1972,81,86,87,08-06-2012,"$43,638.00 "
+male,group D,bachelor's degree,free/reduced,completed,1972,39,42,38,4/13/14,"$58,116.00 "
+female,group C,some college,standard,completed,1972,71,71,80,3/22/14,"$62,187.00 "
+male,group C,associate's degree,standard,none,1972,97,93,91,03-08-2014,"$46,344.00 "
+male,group D,some college,standard,completed,1972,82,82,88,12/16/13,"$77,353.00 "
+male,group C,high school,free/reduced,none,1972,59,53,52,10/28/13,"$69,759.00 "
+male,group B,associate's degree,standard,none,1972,61,42,41,10/22/13,"$21,846.00 "
+male,group E,associate's degree,free/reduced,completed,1972,78,74,72,09-09-2013,"$76,532.00 "
+male,group C,associate's degree,free/reduced,none,1972,49,51,51,07-03-2013,"$70,053.00 "
+male,group B,high school,standard,none,1972,59,58,47,05-06-2013,"$75,342.00 "
+female,group C,some college,standard,completed,1972,70,72,76,4/23/13,"$27,590.00 "
+male,group B,associate's degree,standard,completed,1972,82,84,78,2/18/13,"$51,148.00 "
+male,group E,associate's degree,free/reduced,none,1972,90,90,82,02-06-2013,"$33,378.00 "
+female,group C,bachelor's degree,free/reduced,none,1972,43,62,61,1/16/13,"$32,644.00 "
+male,group C,some college,free/reduced,none,1972,80,64,66,01-08-2013,"$33,581.00 "
+male,group D,some college,standard,none,1972,81,82,84,12-04-2012,"$12,393.00 "
+male,group C,some high school,standard,none,1972,57,61,54,11/28/12,"$42,710.00 "
+female,group D,some high school,standard,none,1972,59,72,80,11-06-2012,"$82,347.00 "
+female,group D,associate's degree,standard,none,1972,64,76,74,11-06-2012,"$82,347.00 "
+male,group C,bachelor's degree,standard,completed,1972,63,64,66,11-03-2012,"$22,554.00 "
+female,group E,bachelor's degree,standard,completed,1972,71,70,70,10-10-2012,"$17,323.00 "
+female,group B,high school,free/reduced,none,1972,64,73,71,09-12-2012,"$62,204.00 "
+male,group D,bachelor's degree,free/reduced,none,1972,55,46,44,09-10-2012,"$78,028.00 "
+female,group E,associate's degree,standard,none,1972,51,51,54,09-08-2012,"$63,887.00 "
+female,group C,associate's degree,standard,completed,1972,62,76,80,8/28/12,"$32,727.00 "
+female,group E,associate's degree,standard,completed,1972,93,100,95,8/27/12,"$29,103.00 "
+male,group C,high school,free/reduced,none,1972,54,72,59,6/27/14,"$61,482.00 "
+female,group D,some college,free/reduced,none,1972,69,65,74,05-11-2014,"$20,587.00 "
+male,group D,high school,free/reduced,none,1972,44,51,48,05-11-2014,"$20,587.00 "
+female,group E,some college,standard,completed,1972,86,85,91,05-08-2014,"$52,190.00 "
+female,group E,associate's degree,standard,none,1972,85,92,85,3/20/14,"$48,186.00 "
+female,group A,master's degree,free/reduced,none,1972,50,67,73,12/14/13,"$19,329.00 "
+male,group D,some high school,standard,completed,1972,88,74,75,11-06-2013,"$34,109.00 "
+female,group E,associate's degree,standard,none,1972,59,62,69,10/21/13,"$23,477.00 "
+female,group E,some high school,free/reduced,none,1972,32,34,38,9/16/13,"$47,472.00 "
+male,group B,high school,free/reduced,none,1972,36,29,27,07-02-2013,"$14,849.00 "
+female,group B,some high school,free/reduced,completed,1972,63,78,79,06-04-2013,"$26,224.00 "
+male,group D,associate's degree,standard,completed,1972,67,54,63,4/20/13,"$27,238.00 "
+female,group D,some high school,standard,completed,1972,65,78,82,04-01-2013,"$27,238.01"
+male,group D,master's degree,standard,none,1972,85,84,89,03-03-2013,"$57,967.00 "
+female,group C,master's degree,standard,none,1972,73,78,74,02-12-2013,"$51,569.00 "
+female,group A,high school,free/reduced,completed,1972,34,48,41,11-08-2012,"$72,550.00 "
+female,group D,bachelor's degree,free/reduced,completed,1972,93,100,100,10-12-2012,"$44,511.00 "
+female,group D,some high school,free/reduced,none,1972,67,84,84,08-03-2012,"$62,972.00 "
+male,group D,some college,standard,none,1972,88,77,77,08-03-2012,"$62,972.00 "
+male,group B,high school,standard,none,1972,57,48,51,5/16/14,"$77,845.00 "
+female,group D,some college,standard,completed,1972,79,84,91,4/25/14,"$36,663.00 "
+female,group C,bachelor's degree,free/reduced,none,1972,67,75,72,3/20/14,"$53,204.00 "
+male,group E,bachelor's degree,standard,completed,1972,70,64,70,01-07-2014,"$21,059.00 "
+male,group D,bachelor's degree,free/reduced,none,1972,50,42,48,12/17/13,"$67,087.00 "
+female,group A,some college,standard,none,1972,69,84,82,11/13/13,"$73,892.00 "
+female,group C,bachelor's degree,standard,completed,1972,52,61,66,11-07-2013,"$75,114.00 "
+female,group C,bachelor's degree,free/reduced,completed,1972,47,62,66,09-06-2013,"$42,192.00 "
+female,group B,associate's degree,free/reduced,none,1972,46,61,55,07-06-2013,"$31,454.00 "
+female,group E,some college,standard,none,1972,68,70,66,6/19/13,"$22,775.00 "
+male,group E,bachelor's degree,standard,completed,1972,100,100,100,6/19/13,"$22,775.00 "
+female,group C,high school,standard,none,1972,44,61,52,6/18/13,"$31,590.00 "
+female,group C,associate's degree,standard,completed,1972,57,77,80,5/20/13,"$80,134.00 "
+male,group B,some college,standard,completed,1972,91,96,91,5/20/13,"$80,134.00 "
+male,group D,high school,free/reduced,none,1972,69,70,67,2/28/13,"$14,188.00 "
+female,group C,high school,free/reduced,none,1972,35,53,46,2/19/13,"$18,169.00 "
+male,group D,high school,standard,none,1972,72,66,66,2/18/13,"$62,503.00 "
+female,group B,associate's degree,free/reduced,none,1972,54,65,65,11/18/12,"$46,734.00 "
+male,group D,high school,free/reduced,none,1972,74,70,69,11-10-2012,"$68,126.00 "
+male,group E,some high school,standard,completed,1972,74,64,60,10/15/12,"$52,869.00 "
+male,group E,associate's degree,free/reduced,none,1972,64,56,52,10/13/12,"$26,576.00 "
+female,group D,high school,free/reduced,completed,1972,65,61,71,10-12-2012,"$75,825.00 "
+male,group E,associate's degree,free/reduced,completed,1972,46,43,44,09-08-2012,"$57,045.00 "
+female,group C,some high school,free/reduced,none,1972,48,56,51,09-06-2012,"$34,984.00 "
+male,group C,some college,free/reduced,completed,1972,67,74,70,8/26/12,"$27,803.00 "
+male,group D,some college,free/reduced,none,1972,62,57,62,6/14/14,"$69,283.00 "
+male,group D,associate's degree,free/reduced,completed,1972,61,71,73,5/29/14,"$18,746.00 "
+male,group C,bachelor's degree,free/reduced,completed,1972,70,75,74,04-07-2014,"$70,924.00 "
+male,group C,associate's degree,standard,completed,1972,98,87,90,04-07-2014,"$70,924.00 "
+male,group D,some college,free/reduced,none,1972,70,63,58,3/23/14,"$69,401.00 "
+male,group A,associate's degree,standard,none,1972,67,57,53,1/25/14,"$75,012.00 "
+female,group E,high school,free/reduced,none,1972,57,58,57,1/23/14,"$85,738.00 "
+male,group D,some college,standard,completed,1972,85,81,85,1/17/14,"$60,934.00 "
+male,group D,some high school,standard,completed,1972,77,68,69,10/28/13,"$27,161.00 "
+male,group C,master's degree,free/reduced,completed,1972,72,66,72,02-07-2013,"$64,325.00 "
+female,group D,master's degree,standard,none,1972,78,91,96,12-11-2012,"$18,978.00 "
+male,group C,high school,standard,none,1972,81,66,64,10/31/12,"$41,124.00 "
+male,group A,some high school,free/reduced,completed,1972,61,62,61,10-12-2012,"$39,684.00 "
+female,group B,high school,standard,none,1972,58,68,61,9/24/12,"$53,378.00 "
+female,group C,associate's degree,standard,none,1972,54,61,58,08-08-2012,"$37,040.00 "
+male,group B,high school,standard,none,1972,82,82,80,5/23/14,"$78,710.00 "
+female,group D,some college,free/reduced,none,1972,49,58,60,4/24/14,"$92,910.00 "
+male,group B,some high school,free/reduced,completed,1972,49,50,52,4/14/14,"$36,283.00 "
+female,group E,high school,free/reduced,completed,1972,57,75,73,04-08-2014,"$79,632.00 "
+male,group E,high school,standard,none,1972,94,73,71,02-12-2014,"$28,587.00 "
+female,group D,some college,standard,completed,1972,75,77,83,02-05-2014,"$88,325.00 "
+female,group E,some high school,free/reduced,none,1972,74,74,72,12/31/13,"$51,412.00 "
+male,group C,high school,standard,completed,1972,58,52,54,12/20/13,"$63,998.00 "
+female,group C,some college,standard,none,1972,62,69,69,9/13/13,"$38,593.00 "
+male,group E,associate's degree,standard,none,1972,72,57,62,07-05-2013,"$27,889.00 "
+male,group C,some college,standard,none,1972,84,87,81,07-02-2013,"$45,889.00 "
+female,group D,master's degree,standard,none,1972,92,100,100,05-05-2013,"$56,575.00 "
+female,group D,high school,standard,none,1972,45,63,59,3/17/13,"$16,014.00 "
+male,group C,high school,standard,none,1972,75,81,71,03-10-2013,"$61,331.00 "
+female,group A,some college,standard,none,1972,56,58,64,02-06-2013,"$70,893.00 "
+female,group D,some high school,free/reduced,none,1972,48,54,53,01-06-2013,"$2,447.00 "
+female,group E,associate's degree,standard,none,1972,100,100,100,11/13/12,"$64,849.00 "
+female,group C,some high school,free/reduced,completed,1972,65,76,75,10/29/12,"$42,387.00 "
+male,group D,some college,standard,none,1972,72,57,58,10-12-2012,"$80,617.00 "
+female,group D,some college,standard,none,1972,62,70,72,9/18/12,"$54,006.00 "
+male,group A,some high school,standard,completed,1972,66,68,64,6/18/14,"$16,531.00 "
+male,group C,some college,standard,none,1972,63,63,60,5/26/14,"$30,843.00 "
+female,group E,associate's degree,standard,none,1972,68,76,67,5/23/14,"$18,988.00 "
+female,group B,bachelor's degree,standard,none,1972,75,84,80,5/23/14,"$81,051.00 "
+female,group D,bachelor's degree,standard,none,1972,89,100,100,4/13/14,"$39,747.00 "
+male,group C,some high school,standard,completed,1972,78,72,69,3/30/14,"$34,554.00 "
+female,group A,high school,free/reduced,completed,1972,53,50,60,3/24/14,"$52,854.00 "
+female,group D,some college,free/reduced,none,1972,49,65,61,1/13/14,"$81,205.00 "
+female,group A,some college,standard,none,1972,54,63,67,11/19/13,"$69,084.00 "
+female,group C,some college,standard,completed,1972,64,82,77,11/19/13,"$69,084.00 "
+male,group B,some college,free/reduced,completed,1972,60,62,60,8/21/13,"$65,352.00 "
+male,group C,associate's degree,standard,none,1972,62,65,58,08-08-2013,"$22,063.00 "
+male,group D,high school,standard,completed,1972,55,41,48,07-05-2013,"$47,691.00 "
+female,group C,associate's degree,standard,none,1972,91,95,94,05-09-2013,"$29,187.00 "
+female,group B,high school,free/reduced,none,1972,8,24,23,04-06-2013,"$72,504.00 "
+male,group D,some high school,standard,none,1972,81,78,78,3/14/13,"$33,986.00 "
+male,group B,some high school,standard,completed,1972,79,85,86,1/13/13,"$42,386.00 "
+female,group A,some college,standard,completed,1972,78,87,91,1/13/13,"$42,386.00 "
+female,group C,some high school,standard,none,1972,74,75,82,09-06-2012,"$36,957.00 "
+male,group A,high school,standard,none,1972,57,51,54,8/31/12,"$13,724.00 "
+female,group C,associate's degree,standard,none,1972,40,59,51,3/18/14,"$42,664.00 "
+male,group E,some high school,standard,completed,1972,81,75,76,2/26/14,"$37,334.00 "
+female,group A,some high school,free/reduced,none,1972,44,45,45,12-01-2013,"$78,497.00 "
+female,group D,some college,free/reduced,completed,1972,67,86,83,12-01-2013,"$78,497.00 "
+male,group E,high school,free/reduced,completed,1972,86,81,75,10-12-2013,"$58,821.00 "
+female,group B,some high school,standard,completed,1972,65,82,78,5/14/13,"$58,398.00 "
+female,group D,associate's degree,free/reduced,none,1972,55,76,76,3/28/13,"$80,950.00 "
+female,group D,bachelor's degree,free/reduced,none,1972,62,72,74,01-05-2013,"$30,732.00 "
+male,group A,high school,standard,none,1972,63,63,62,9/15/12,"$89,572.00 "
+female,group E,master's degree,standard,completed,1972,88,99,95,8/24/12,"$57,107.00 "
+male,group C,high school,free/reduced,none,1972,62,55,55,8/17/12,"$76,467.00 "
+female,group C,high school,free/reduced,completed,1972,59,71,65,5/27/14,"$76,467.01"
+female,group D,some college,standard,completed,1972,68,78,77,2/23/14,"$51,315.00 "
+female,group D,some college,free/reduced,none,1972,77,86,86,01-10-2014,"$43,602.00 "
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
